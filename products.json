@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "f2b7dea2-4602-4afd-a038-4d556dca596b",
+    "name": "Miroir décoratif \"Reflets de charme pour votre intérieur\"",
+    "category": "Miroirs",
+    "youtubeLink": "",
+    "description": "Ce miroir décoratif n’est pas seulement un reflet… c’est une véritable pièce d’art ! Son design raffiné apporte lumière et profondeur à votre espace, tout en ajoutant une touche de charme unique. Idéal pour le salon, l’entrée ou la chambre, il transforme instantanément l’atmosphère de votre maison.",
+    "defaultDimensions": [
+      {
+        "x": 65,
+        "y": 165,
+        "z": 4,
+        "price": 240
+      }
+    ],
+    "allowCustom": false,
+    "availableZ": [],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/fb974880-66bc-4b5c-818c-f143d7cd7588.png"
+    ]
+  }
+]
