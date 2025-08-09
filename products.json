@@ -18,5 +18,25 @@
     "images": [
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/fb974880-66bc-4b5c-818c-f143d7cd7588.png"
     ]
+  },
+  {
+    "id": "014ca047-f349-4e98-a14a-31fedc799893",
+    "name": "rtuk",
+    "category": "Miroirs",
+    "youtubeLink": "",
+    "description": "sggggggggggggg",
+    "defaultDimensions": [
+      {
+        "x": 44,
+        "y": 44,
+        "z": 4,
+        "price": 444
+      }
+    ],
+    "allowCustom": false,
+    "availableZ": [],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/cd0b228f-627e-4cf2-9846-833b02f9a9c2.png"
+    ]
   }
 ]
