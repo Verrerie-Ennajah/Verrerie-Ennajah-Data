@@ -121,5 +121,24 @@
     "images": [
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/ddc7467e-c092-4d68-86e3-93f3a56a39e1.png"
     ]
+  },
+  {
+    "id": "163a3e0d-941b-4a55-a0ce-a3e8a60b5b6e",
+    "name": "\"Aquarium Unique pour une Maison Vivante\"",
+    "category": "Verre",
+    "youtubeLink": "",
+    "description": "\"Transformez votre intérieur en un véritable spectacle marin 🐠🌊 ! Cet aquarium élégant apporte couleur, vie et apaisement à votre espace. Avec son design raffiné et sa clarté parfaite, il met en valeur chaque poisson et plante aquatique, créant une ambiance unique et relaxante. Un coin d’océan à admirer chaque jour depuis chez vous 🏠✨.\"\n\n🚚livraison :\n   \"🐠🌊 Aquarium élégant livré en 7 jours maximum 🚚 – un coin de paradis marin chez vous ✨.\"",
+    "defaultDimensions": [],
+    "allowCustom": true,
+    "availableZ": [
+      {
+        "z": 6,
+        "price": 450
+      }
+    ],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/f6d68be9-55e3-4c44-9dec-d095f4c5ec3c.png",
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/27bc32e2-52ae-4622-b3fb-3b48007320cf.png"
+    ]
   }
 ]
