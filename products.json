@@ -1,25 +1,5 @@
 [
   {
-    "id": "f2b7dea2-4602-4afd-a038-4d556dca596b",
-    "name": "Miroir décoratif \"Reflets de charme pour votre intérieur\"",
-    "category": "Miroirs",
-    "youtubeLink": "",
-    "description": "Ce miroir décoratif n’est pas seulement un reflet… c’est une véritable pièce d’art ! Son design raffiné apporte lumière et profondeur à votre espace, tout en ajoutant une touche de charme unique. Idéal pour le salon, l’entrée ou la chambre, il transforme instantanément l’atmosphère de votre maison.",
-    "defaultDimensions": [
-      {
-        "x": 65,
-        "y": 140,
-        "z": 4,
-        "price": 240
-      }
-    ],
-    "allowCustom": false,
-    "availableZ": [],
-    "images": [
-      "https://Verrerie-Ennajah/Verrerie-Ennajah-Data/images/9588bd18-7e3d-4298-bcac-39c42269126a.png"
-    ]
-  },
-  {
     "id": "bc7c8b52-004f-4c3a-9282-f531092589bc",
     "name": "Miroir avec cadre noir 3cm",
     "category": "Miroirs",
@@ -121,5 +101,25 @@
     "allowCustom": false,
     "availableZ": [],
     "images": []
+  },
+  {
+    "id": "90766dff-b756-49d3-b3d3-66a5f5eec3fd",
+    "name": "\"Miroir LED Tactile – Éclairez Votre Beauté\"",
+    "category": "Miroirs",
+    "youtubeLink": "",
+    "description": "\"✨ Offrez-vous bien plus qu’un simple miroir ! 🪞💡\nCe miroir décoratif LED tactile transforme votre espace en un lieu élégant et lumineux. Un simple toucher 👆 suffit pour allumer ou éteindre la lumière, créant une ambiance douce et raffinée 🌙✨.\nParfait pour la salle de bain 🚿 ou la chambre 🛏️, il combine design moderne, praticité et confort visuel pour sublimer chaque instant passé devant lui 💖.\"\n\n\"🚚💨 Commandez aujourd’hui, votre miroir arrive chez vous en 7 jours maximum ! 🪞✨\nRapide, sûr et prêt à embellir votre intérieur, notre service de livraison express vous garantit de profiter de votre nouveau miroir sans attendre. ⏳🏠\"",
+    "defaultDimensions": [
+      {
+        "x": 74,
+        "y": 55,
+        "z": 4,
+        "price": 149
+      }
+    ],
+    "allowCustom": false,
+    "availableZ": [],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/ddc7467e-c092-4d68-86e3-93f3a56a39e1.png"
+    ]
   }
 ]
