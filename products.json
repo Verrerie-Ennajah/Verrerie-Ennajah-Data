@@ -72,5 +72,25 @@
       "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/01da241e-8016-46ea-9f14-32681b94bb0d.png",
       "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/18237fbc-2167-4b95-b35f-262f595be1d0.png"
     ]
+  },
+  {
+    "id": "7f77a967-81f2-469d-aa67-b74fbb5d83fc",
+    "name": "\"Miroir LED Tactile – Illuminez Votre Espace avec Style et Modernité\"",
+    "category": "Miroirs",
+    "youtubeLink": "",
+    "description": "Offrez à votre intérieur la touche lumineuse qu’il mérite !\nCe miroir LED au design raffiné transforme votre salle de bain ou votre espace déco en un lieu moderne et chaleureux. Grâce à son éclairage LED intégré, profitez d’une lumière douce et homogène idéale pour vos préparations quotidiennes. Son interrupteur tactile apporte un confort d’utilisation ultime : un simple effleurement et votre miroir s’illumine avec élégance. Parfait pour allier praticité et style, il devient rapidement la pièce maîtresse de votre décoration.\n\n*Livraison rapide et fiable\nCommandez dès aujourd’hui et recevez votre miroir chez vous en _10_ jours maximum. Nous veillons à un emballage soigné pour garantir que votre produit arrive en parfait état, prêt à embellir votre intérieur.",
+    "defaultDimensions": [
+      {
+        "x": 70,
+        "y": 90,
+        "z": 4,
+        "price": 275
+      }
+    ],
+    "allowCustom": false,
+    "availableZ": [],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/88fcaeab-242f-4705-95be-81a844b0c643.png"
+    ]
   }
 ]
