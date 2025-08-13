@@ -38,5 +38,26 @@
     "images": [
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/cd0b228f-627e-4cf2-9846-833b02f9a9c2.png"
     ]
+  },
+  {
+    "id": "bc7c8b52-004f-4c3a-9282-f531092589bc",
+    "name": "Miroir avec cadre noir 3cm",
+    "category": "Miroirs",
+    "youtubeLink": "",
+    "description": "\"Alliez élégance et modernité avec ce miroir au cadre noir de 3 cm. Son design fin et épuré apporte une touche de sophistication à n’importe quelle pièce, tout en mettant en valeur vos espaces. Parfait pour un salon, une chambre ou une entrée, il reflète non seulement votre image, mais aussi votre style.\"",
+    "defaultDimensions": [
+      {
+        "x": 60,
+        "y": 170,
+        "z": 3,
+        "price": 175
+      }
+    ],
+    "allowCustom": false,
+    "availableZ": [],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/6df5b8b9-c08f-455d-8d23-0901943891be.png",
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/f8afab6d-f992-4408-8839-0759add7e197.png"
+    ]
   }
 ]
