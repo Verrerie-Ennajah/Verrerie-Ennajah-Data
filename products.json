@@ -77,7 +77,7 @@
     "name": "Miroir Bois Naturel au Charme Simple",
     "category": "Miroirs",
     "youtubeLink": "",
-    "description": "\"Apportez chaleur et authenticité à votre intérieur avec ce magnifique miroir en bois. Son cadre finement travaillé, orné d’un motif simple et discret, sublime votre espace tout en offrant un reflet clair et éclatant. Parfait pour un salon, une entrée ou une chambre, il allie la beauté naturelle du bois à un design intemporel qui s’adapte à tous les styles de décoration.\"\n\n🚚\"Commandez aujourd’hui, profitez-en dès la semaine prochaine ! 🚚✨\nNotre miroir en bois au motif simple n’attend que sa place chez vous. Grâce à notre service de livraison , recevez-le en _7_ jours maximum directement à votre porte, prêt à sublimer votre intérieur.\"",
+    "description": "<section class=\"product-description\" lang=\"fr\" style=\"font-size: 14px; line-height: 1.4; font-family: Arial, sans-serif;\">\n  <h2 style=\"font-size: 16px; margin-bottom: 8px;\">🪞 <strong>Miroir en Bois – Chaleur & Authenticité</strong></h2>\n\n  <p>✨ <strong>Apportez chaleur et authenticité</strong> à votre intérieur avec ce magnifique \n    <strong>miroir en bois</strong>.  \n    Son <strong>cadre finement travaillé</strong>, orné d’un <strong>motif simple et discret</strong>, sublime votre espace tout en offrant un reflet clair et éclatant.</p>\n\n  <p>🏡 Parfait pour <strong>un salon</strong>, <strong>une entrée</strong> ou <strong>une chambre</strong>, \n    il allie la <strong>beauté naturelle du bois</strong> à un <strong>design intemporel</strong> qui s’adapte à tous les styles de décoration.</p>\n\n  <h3 style=\"font-size: 15px; margin-top: 10px;\">📦 <strong>Livraison rapide & soignée</strong></h3>\n  <p>🚚 <strong>Commandez aujourd’hui</strong> et profitez-en dès la semaine prochaine !  \n    Notre miroir en bois au motif simple n’attend que sa place chez vous.  \n    ⏱️ <strong>Livraison garantie en 7 jours maximum</strong>, directement à votre porte, avec un emballage sécurisé pour qu’il arrive <strong>en parfait état</strong>.</p>\n</section>",
     "defaultDimensions": [
       {
         "x": 90,
@@ -101,8 +101,8 @@
     "allowCustom": false,
     "availableZ": [],
     "images": [
-      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/0b28b722-845a-4a85-9170-e41d9bf734a5.png",
-      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/963a3154-e30a-47c3-90f5-b0b9cf362ca5.png"
+      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/0b28b722-845a-4a85-9170-e41d9bf734a5.png",
+      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/963a3154-e30a-47c3-90f5-b0b9cf362ca5.png"
     ]
   },
   {
@@ -110,7 +110,7 @@
     "name": "Miroir LED Tactile – Éclairez Votre Beauté",
     "category": "Miroirs",
     "youtubeLink": "",
-    "description": "\"✨ Offrez-vous bien plus qu’un simple miroir ! 🪞💡\nCe miroir décoratif LED tactile transforme votre espace en un lieu élégant et lumineux. Un simple toucher 👆 suffit pour allumer ou éteindre la lumière, créant une ambiance douce et raffinée 🌙✨.\nParfait pour la salle de bain 🚿 ou la chambre 🛏️, il combine design moderne, praticité et confort visuel pour sublimer chaque instant passé devant lui 💖.\"\n\n\"🚚💨 Commandez aujourd’hui, votre miroir arrive chez vous en 7 jours maximum ! 🪞✨\nRapide, sûr et prêt à embellir votre intérieur, notre service de livraison express vous garantit de profiter de votre nouveau miroir sans attendre. ⏳🏠\"",
+    "description": "<section class=\"product-description\" lang=\"fr\" style=\"font-size: 14px; line-height: 1.4; font-family: Arial, sans-serif;\">\n  <h2 style=\"font-size: 16px; margin-bottom: 8px;\">✨ <strong>Miroir LED Tactile – Élégance & Lumière</strong> 🪞💡</h2>\n\n  <p>✨ <strong>Offrez-vous bien plus qu’un simple miroir</strong> !  \n    Ce <strong>miroir décoratif LED tactile</strong> transforme votre espace en un lieu élégant et lumineux.  \n    👆 <strong>Un simple toucher</strong> suffit pour allumer ou éteindre la lumière, créant une ambiance douce et raffinée 🌙✨.</p>\n\n  <p>🏡 Parfait pour <strong>la salle de bain</strong> 🚿 ou <strong>la chambre</strong> 🛏️,  \n    il combine <strong>design moderne</strong>, <strong>praticité</strong> et <strong>confort visuel</strong> pour sublimer chaque instant passé devant lui 💖.</p>\n\n  <h3 style=\"font-size: 15px; margin-top: 10px;\">📦 <strong>Livraison rapide & sécurisée</strong></h3>\n  <p>🚚💨 <strong>Commandez aujourd’hui</strong> et recevez votre miroir chez vous en <strong>7 jours maximum</strong> !  \n    Notre service de <strong>livraison express</strong> vous garantit un envoi rapide, sûr et prêt à embellir votre intérieur ⏳🏠.</p>\n</section>",
     "defaultDimensions": [
       {
         "x": 74,
@@ -122,7 +122,7 @@
     "allowCustom": false,
     "availableZ": [],
     "images": [
-      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/2212f8be-9420-426d-9233-f57816e780d2.png"
+      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/2212f8be-9420-426d-9233-f57816e780d2.png"
     ]
   }
 ]
