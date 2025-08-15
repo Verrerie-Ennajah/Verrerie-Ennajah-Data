@@ -124,5 +124,25 @@
     "images": [
       "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/d88e62f8-3674-486c-b6d9-412734de2497.png"
     ]
+  },
+  {
+    "id": "a864596c-5f44-40ae-813b-ffc5ebf95462",
+    "name": "gggg",
+    "category": "Miroirs",
+    "youtubeLink": "",
+    "description": "gghhhg",
+    "defaultDimensions": [
+      {
+        "x": 44,
+        "y": 5,
+        "z": 8,
+        "price": 236
+      }
+    ],
+    "allowCustom": false,
+    "availableZ": [],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/c61e861a-831a-4901-b049-0054784a0860.png"
+    ]
   }
 ]
