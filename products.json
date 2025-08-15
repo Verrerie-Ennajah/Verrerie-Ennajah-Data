@@ -16,8 +16,8 @@
     "allowCustom": false,
     "availableZ": [],
     "images": [
-      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/bb5c224b-e6c3-48c4-aefe-b28589b1d95d.png",
-      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/1d37f0a5-6683-4ece-9a60-82ec07c6e350.png"
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/1167afee-8748-4499-a548-5b625e7ae959.png",
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/9a5ab29c-2d40-41ef-aace-c8e5bb1a7084.png"
     ]
   },
   {
@@ -37,7 +37,7 @@
     "allowCustom": false,
     "availableZ": [],
     "images": [
-      "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/ba5a4ce3-59eb-46b7-b066-118151c72fae.png"
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/dd33de0b-afc5-42f4-aff7-31aac0448600.png"
     ]
   },
   {
@@ -123,26 +123,6 @@
     "availableZ": [],
     "images": [
       "https://ademtebourbi.github.io/VerrerieEnnajah-Data/images/d88e62f8-3674-486c-b6d9-412734de2497.png"
-    ]
-  },
-  {
-    "id": "a864596c-5f44-40ae-813b-ffc5ebf95462",
-    "name": "gggg",
-    "category": "Miroirs",
-    "youtubeLink": "",
-    "description": "gghhhg",
-    "defaultDimensions": [
-      {
-        "x": 44,
-        "y": 5,
-        "z": 8,
-        "price": 236
-      }
-    ],
-    "allowCustom": false,
-    "availableZ": [],
-    "images": [
-      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/c61e861a-831a-4901-b049-0054784a0860.png"
     ]
   }
 ]
