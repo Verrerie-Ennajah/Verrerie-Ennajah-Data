@@ -42,7 +42,7 @@
   },
   {
     "id": "6b7b5a47-5445-4b41-b9e0-d932fade2652",
-    "name": "\"Miroir en Bois aux Motifs Raffinés et Simples\"",
+    "name": "Miroir en Bois aux Motifs Raffinés et Simples",
     "category": "Miroirs",
     "youtubeLink": "",
     "description": "\"Offrez à votre séjour un charme naturel et intemporel avec ce miroir au cadre en bois finement travaillé. Ses motifs délicats, à la fois jolis et simples, apportent une touche d’authenticité qui se marie à tous les styles de décoration. Plus qu’un simple objet, c’est une pièce maîtresse qui agrandit l’espace, illumine la pièce et raconte une histoire de raffinement. Un choix idéal pour ceux qui aiment allier élégance et simplicité.\" \n\n*couleur : Doré / Noir \n\n* livraison : \"Votre miroir sera soigneusement préparé et expédié avec le plus grand soin. La livraison est garantie sous un délai maximum de _7_ jours, directement à votre adresse, avec un emballage sécurisé pour assurer qu’il arrive en parfait état.\"",
@@ -68,11 +68,13 @@
     ],
     "allowCustom": false,
     "availableZ": [],
-    "images": []
+    "images": [
+      "https://Verrerie-Ennajah/Verrerie-Ennajah-Data/images/4646ca4b-3205-4f13-889c-508691c8d545.png"
+    ]
   },
   {
     "id": "e26abebe-c9ab-4cb5-bf43-c3d0fe97378f",
-    "name": "\"Miroir Bois Naturel au Charme Simple\"",
+    "name": "Miroir Bois Naturel au Charme Simple",
     "category": "Miroirs",
     "youtubeLink": "",
     "description": "\"Apportez chaleur et authenticité à votre intérieur avec ce magnifique miroir en bois. Son cadre finement travaillé, orné d’un motif simple et discret, sublime votre espace tout en offrant un reflet clair et éclatant. Parfait pour un salon, une entrée ou une chambre, il allie la beauté naturelle du bois à un design intemporel qui s’adapte à tous les styles de décoration.\"\n\n🚚\"Commandez aujourd’hui, profitez-en dès la semaine prochaine ! 🚚✨\nNotre miroir en bois au motif simple n’attend que sa place chez vous. Grâce à notre service de livraison , recevez-le en _7_ jours maximum directement à votre porte, prêt à sublimer votre intérieur.\"",
@@ -98,11 +100,14 @@
     ],
     "allowCustom": false,
     "availableZ": [],
-    "images": []
+    "images": [
+      "https://Verrerie-Ennajah/Verrerie-Ennajah-Data/images/d872f5f9-b415-4771-8dbe-93685539cbc3.png",
+      "https://Verrerie-Ennajah/Verrerie-Ennajah-Data/images/300bb2b0-7b22-4723-a5a9-18baaf95c8c3.png"
+    ]
   },
   {
     "id": "90766dff-b756-49d3-b3d3-66a5f5eec3fd",
-    "name": "\"Miroir LED Tactile – Éclairez Votre Beauté\"",
+    "name": "Miroir LED Tactile – Éclairez Votre Beauté",
     "category": "Miroirs",
     "youtubeLink": "",
     "description": "\"✨ Offrez-vous bien plus qu’un simple miroir ! 🪞💡\nCe miroir décoratif LED tactile transforme votre espace en un lieu élégant et lumineux. Un simple toucher 👆 suffit pour allumer ou éteindre la lumière, créant une ambiance douce et raffinée 🌙✨.\nParfait pour la salle de bain 🚿 ou la chambre 🛏️, il combine design moderne, praticité et confort visuel pour sublimer chaque instant passé devant lui 💖.\"\n\n\"🚚💨 Commandez aujourd’hui, votre miroir arrive chez vous en 7 jours maximum ! 🪞✨\nRapide, sûr et prêt à embellir votre intérieur, notre service de livraison express vous garantit de profiter de votre nouveau miroir sans attendre. ⏳🏠\"",
@@ -116,6 +121,8 @@
     ],
     "allowCustom": false,
     "availableZ": [],
-    "images": []
+    "images": [
+      "https://Verrerie-Ennajah/Verrerie-Ennajah-Data/images/d88e62f8-3674-486c-b6d9-412734de2497.png"
+    ]
   }
 ]
