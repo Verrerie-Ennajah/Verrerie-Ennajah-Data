@@ -145,5 +145,26 @@
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/2412a78c-2300-4975-a5f9-35791bc74e2f.png",
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/b35cfa54-61a0-41cc-aa0e-13a4ea94d3cd.png"
     ]
+  },
+  {
+    "id": "539fe7f6-2726-44f1-bfd4-e6751e4d1338",
+    "name": "Miroir Africa",
+    "category": "Miroirs",
+    "youtubeLink": "",
+    "description": "✨ Description :\nApportez une touche unique à votre intérieur avec ce miroir en forme de l’Afrique, une pièce décorative qui allie élégance et originalité 🌍✨. Plus qu’un simple miroir, c’est un symbole de style et d’identité qui transforme votre mur en œuvre d’art.\n\n🚚 Livraison rapide en 6 jours maximum directement chez vous !",
+    "defaultDimensions": [
+      {
+        "x": 150,
+        "y": 190,
+        "z": 4,
+        "price": 490
+      }
+    ],
+    "allowCustom": false,
+    "availableZ": [],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/d1b3754a-9778-4970-83ab-43baa6736e56.png",
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/efed9919-29ca-4dcf-8c73-814411d4d9a4.png"
+    ]
   }
 ]
