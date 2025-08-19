@@ -196,5 +196,24 @@
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/b65b76ea-237b-4be0-950a-3d7b36403a6a.png",
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/d3f3f759-9a6a-4996-8000-7c67773a8c85.png"
     ]
+  },
+  {
+    "id": "8e5c45ce-5d41-486c-bbb8-d75617c69f1e",
+    "name": "Un cadre chic pour donner vie à vos peintures",
+    "category": "Cadres",
+    "youtubeLink": "",
+    "description": "✨ Description :\nMettez vos œuvres en valeur avec ce cadre noir 3.5 cm, à la fois moderne et raffiné. Sa finition élégante apporte profondeur et caractère à vos peintures, tout en s’adaptant parfaitement à tout style de décoration 🖼️. Idéal pour artistes, collectionneurs ou amateurs de décoration, ce cadre transforme chaque toile en véritable chef-d’œuvre ✨.\n\n📌 Le devis sera prêt en 1 jour maximum pour répondre rapidement à vos besoins ✅.",
+    "defaultDimensions": [
+      {
+        "x": 0,
+        "y": 0,
+        "price": 0
+      }
+    ],
+    "allowCustom": false,
+    "availableZ": [],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/6eebeed8-9d1c-4753-b97c-aefccddf81fc.png"
+    ]
   }
 ]
