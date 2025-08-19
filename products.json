@@ -166,5 +166,35 @@
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/d1b3754a-9778-4970-83ab-43baa6736e56.png",
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/efed9919-29ca-4dcf-8c73-814411d4d9a4.png"
     ]
+  },
+  {
+    "id": "fd4736e1-c196-40c2-8ae8-c91f8caf5510",
+    "name": "Mettez en valeur vos photos & attestations",
+    "category": "Cadres",
+    "youtubeLink": "",
+    "description": "🖤 Un cadre sobre et élégant pour mettre en valeur vos attestations, diplômes ou photos 📜📸.\nAvec son design fin de 1.5 cm, il apporte une touche moderne et professionnelle à vos murs ✨.\nIdéal pour la maison 🏡, le bureau 🏢 ou un cadeau 🎁.\n\n👉 Un choix simple, chic et intemporel pour sublimer vos précieux souvenirs 💎.",
+    "defaultDimensions": [
+      {
+        "x": 21,
+        "y": 29.5,
+        "price": 28
+      },
+      {
+        "x": 42,
+        "y": 29.7,
+        "price": 36
+      },
+      {
+        "x": 42,
+        "y": 59.4,
+        "price": 78
+      }
+    ],
+    "allowCustom": false,
+    "availableZ": [],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/b65b76ea-237b-4be0-950a-3d7b36403a6a.png",
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/d3f3f759-9a6a-4996-8000-7c67773a8c85.png"
+    ]
   }
 ]
