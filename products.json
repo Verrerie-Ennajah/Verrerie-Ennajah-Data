@@ -220,5 +220,24 @@
     "images": [
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/6eebeed8-9d1c-4753-b97c-aefccddf81fc.png"
     ]
+  },
+  {
+    "id": "ee4caf27-3b40-4152-bb86-49fce218a14b",
+    "name": "peinture sur verre",
+    "category": "Verre",
+    "youtubeLink": "",
+    "description": "✨ Offrez à vos murs une touche moderne et unique avec notre verre en peinture numérique 🎨🖼️\n💡 Des couleurs éclatantes, des détails précis et un rendu brillant qui sublime votre espace 🌟\n\n🚚 Livraison en 10 jours max – Qualité garantie !",
+    "defaultDimensions": [],
+    "allowCustom": true,
+    "availableZ": [
+      {
+        "z": 4,
+        "price": 350
+      }
+    ],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/88cba878-5b0d-49a6-adcc-d17059884831.png",
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/902d6139-6666-4bc7-860a-762bbaa0fe58.png"
+    ]
   }
 ]
