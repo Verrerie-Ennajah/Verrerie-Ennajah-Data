@@ -213,6 +213,12 @@
         "x": 100,
         "y": 100,
         "z": 4,
+        "price": 330
+      },
+      {
+        "x": 100,
+        "y": 100,
+        "z": 6,
         "price": 350
       }
     ],
@@ -220,7 +226,11 @@
     "availableZ": [
       {
         "z": 4,
-        "price": 350
+        "price": 310
+      },
+      {
+        "z": 6,
+        "price": 330
       }
     ],
     "images": [
@@ -239,6 +249,12 @@
         "x": 100,
         "y": 100,
         "z": 4,
+        "price": 230
+      },
+      {
+        "x": 100,
+        "y": 100,
+        "z": 6,
         "price": 250
       }
     ],
@@ -246,6 +262,10 @@
     "availableZ": [
       {
         "z": 4,
+        "price": 210
+      },
+      {
+        "z": 6,
         "price": 230
       }
     ],
@@ -264,6 +284,12 @@
         "x": 100,
         "y": 100,
         "z": 4,
+        "price": 230
+      },
+      {
+        "x": 100,
+        "y": 100,
+        "z": 6,
         "price": 250
       }
     ],
@@ -271,11 +297,50 @@
     "availableZ": [
       {
         "z": 4,
+        "price": 210
+      },
+      {
+        "z": 6,
         "price": 230
       }
     ],
     "images": [
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/1b972d11-f125-4f72-b8dd-9eb913e3bcd2.png"
+    ]
+  },
+  {
+    "id": "b7785b99-4917-4645-b2d1-752a3e19dc01",
+    "name": "Art Noir sur Verre – Finesse et Modernité",
+    "category": "Verre",
+    "youtubeLink": "",
+    "description": "Un tracé noir fin et élégant sur verre, qui apporte caractère et originalité à votre décoration. 🚚 Recevez-le chez vous en 10 jours maximum.",
+    "defaultDimensions": [
+      {
+        "x": 100,
+        "y": 100,
+        "z": 6,
+        "price": 250
+      },
+      {
+        "x": 100,
+        "y": 100,
+        "z": 4,
+        "price": 230
+      }
+    ],
+    "allowCustom": true,
+    "availableZ": [
+      {
+        "z": 4,
+        "price": 210
+      },
+      {
+        "z": 6,
+        "price": 230
+      }
+    ],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/b6dfd998-875c-4a3e-96a5-50e9719b6bc6.png"
     ]
   }
 ]
