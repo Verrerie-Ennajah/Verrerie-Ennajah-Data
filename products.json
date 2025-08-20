@@ -227,5 +227,28 @@
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/88cba878-5b0d-49a6-adcc-d17059884831.png",
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/902d6139-6666-4bc7-860a-762bbaa0fe58.png"
     ]
+  },
+  {
+    "id": "f84fa210-a6ed-4a71-99d1-4f2b53616537",
+    "name": "Simplicité & Raffinement – Peinture Noire sur Verre",
+    "category": "Verre",
+    "youtubeLink": "",
+    "description": "\"Un traçage noir raffiné sur verre, au design moderne et élégant 🎨✨. Parfait pour apporter une touche unique à votre décoration. 🚚 Livraison rapide sous 10 jours maximum !\"",
+    "defaultDimensions": [
+      {
+        "x": 100,
+        "y": 100,
+        "z": 4,
+        "price": 250
+      }
+    ],
+    "allowCustom": true,
+    "availableZ": [
+      {
+        "z": 4,
+        "price": 230
+      }
+    ],
+    "images": []
   }
 ]
