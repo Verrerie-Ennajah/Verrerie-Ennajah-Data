@@ -252,5 +252,30 @@
     "images": [
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/da1ce37b-0a76-4ef4-b6eb-4965a1cba5fe.png"
     ]
+  },
+  {
+    "id": "e3061c64-b3d3-413f-bdeb-6b3d788501ae",
+    "name": "Verre Stylisé – Traçage Noir Minimaliste",
+    "category": "Verre",
+    "youtubeLink": "",
+    "description": "Traçage noir sur verre au style sobre et raffiné, idéal pour sublimer vos espaces. Un design unique qui allie modernité et élégance. 🚚 Livraison garantie sous 10 jours maximum.",
+    "defaultDimensions": [
+      {
+        "x": 100,
+        "y": 100,
+        "z": 4,
+        "price": 250
+      }
+    ],
+    "allowCustom": true,
+    "availableZ": [
+      {
+        "z": 4,
+        "price": 230
+      }
+    ],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/1b972d11-f125-4f72-b8dd-9eb913e3bcd2.png"
+    ]
   }
 ]
