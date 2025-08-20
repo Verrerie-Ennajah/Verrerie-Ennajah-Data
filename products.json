@@ -203,31 +203,19 @@
     ]
   },
   {
-    "id": "8e5c45ce-5d41-486c-bbb8-d75617c69f1e",
-    "name": "Un cadre chic pour donner vie à vos peintures",
-    "category": "Cadres",
-    "youtubeLink": "",
-    "description": "✨ Description :\nMettez vos œuvres en valeur avec ce cadre noir 3.5 cm, à la fois moderne et raffiné. Sa finition élégante apporte profondeur et caractère à vos peintures, tout en s’adaptant parfaitement à tout style de décoration 🖼️. Idéal pour artistes, collectionneurs ou amateurs de décoration, ce cadre transforme chaque toile en véritable chef-d’œuvre ✨.\n\n📌 Le devis sera prêt en 1 jour maximum pour répondre rapidement à vos besoins ✅.",
-    "defaultDimensions": [
-      {
-        "x": 0,
-        "y": 0,
-        "price": 0
-      }
-    ],
-    "allowCustom": false,
-    "availableZ": [],
-    "images": [
-      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/6eebeed8-9d1c-4753-b97c-aefccddf81fc.png"
-    ]
-  },
-  {
     "id": "ee4caf27-3b40-4152-bb86-49fce218a14b",
-    "name": "peinture sur verre",
+    "name": "Peinture sur verre",
     "category": "Verre",
     "youtubeLink": "",
     "description": "✨ Offrez à vos murs une touche moderne et unique avec notre verre en peinture numérique 🎨🖼️\n💡 Des couleurs éclatantes, des détails précis et un rendu brillant qui sublime votre espace 🌟\n\n🚚 Livraison en 10 jours max – Qualité garantie !",
-    "defaultDimensions": [],
+    "defaultDimensions": [
+      {
+        "x": 100,
+        "y": 100,
+        "z": 4,
+        "price": 350
+      }
+    ],
     "allowCustom": true,
     "availableZ": [
       {
