@@ -377,5 +377,40 @@
     "images": [
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/495b7628-a320-4b70-bd55-105bba0c202a.png"
     ]
+  },
+  {
+    "id": "f89c4512-26b8-49e3-b6a2-4055c128396f",
+    "name": "Verre Artistique Sablé pour une Touche Moderne",
+    "category": "Verre",
+    "youtubeLink": "",
+    "description": "🌟 Verre décoratif avec finition sablée / peau d’orange : élégance, intimité et luminosité en un seul produit. Idéal pour portes, fenêtres ou décoration intérieure. 🎨✨\n📦 Livraison garantie en 10 jours maximum 🚚💨",
+    "defaultDimensions": [
+      {
+        "x": 100,
+        "y": 100,
+        "z": 4,
+        "price": 299
+      },
+      {
+        "x": 100,
+        "y": 100,
+        "z": 6,
+        "price": 349
+      }
+    ],
+    "allowCustom": true,
+    "availableZ": [
+      {
+        "z": 4,
+        "price": 280
+      },
+      {
+        "z": 6,
+        "price": 330
+      }
+    ],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/4105f6ff-7aec-400c-8d4b-9e3f1a89779a.png"
+    ]
   }
 ]
