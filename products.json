@@ -342,5 +342,40 @@
     "images": [
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/b6dfd998-875c-4a3e-96a5-50e9719b6bc6.png"
     ]
+  },
+  {
+    "id": "9a6d15a7-31ed-495e-aa13-99a676bfc814",
+    "name": "Fleur d’Art sur Verre – Une touche unique pour votre déco",
+    "category": "Verre",
+    "youtubeLink": "",
+    "description": "🌸 Offrez à votre intérieur une touche de raffinement avec ce verre décoré de magnifiques fleurs peintes à la main. Un design unique qui marie transparence et élégance naturelle pour illuminer votre espace. 🎨✨\n📦 Livraison rapide en 10 jours maximum 🚚💨",
+    "defaultDimensions": [
+      {
+        "x": 100,
+        "y": 100,
+        "z": 4,
+        "price": 250
+      },
+      {
+        "x": 100,
+        "y": 100,
+        "z": 4,
+        "price": 350
+      }
+    ],
+    "allowCustom": true,
+    "availableZ": [
+      {
+        "z": 4,
+        "price": 231
+      },
+      {
+        "z": 6,
+        "price": 331
+      }
+    ],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/495b7628-a320-4b70-bd55-105bba0c202a.png"
+    ]
   }
 ]
