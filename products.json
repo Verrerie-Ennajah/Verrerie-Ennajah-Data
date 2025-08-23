@@ -516,5 +516,40 @@
     "images": [
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/8085e941-e1d8-4dea-80bc-3e0447ed1d4c.png"
     ]
+  },
+  {
+    "id": "fe66f069-7cc0-463e-b18d-6e2208abe00a",
+    "name": "Design Végétal Raffiné",
+    "category": "Verre",
+    "youtubeLink": "",
+    "description": "✨ Apportez une touche de nature et de fraîcheur à votre intérieur avec ce verre décoratif au motif feuilles.\nSon design raffiné crée une ambiance chaleureuse et moderne, idéale pour vos portes, fenêtres ou cloisons.\n\n📦 Livraison rapide garantie sous 10 jours maximum !",
+    "defaultDimensions": [
+      {
+        "x": 100,
+        "y": 100,
+        "z": 4,
+        "price": 299
+      },
+      {
+        "x": 100,
+        "y": 100,
+        "z": 6,
+        "price": 349
+      }
+    ],
+    "allowCustom": true,
+    "availableZ": [
+      {
+        "z": 4,
+        "price": 280
+      },
+      {
+        "z": 6,
+        "price": 330
+      }
+    ],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/bf6d28f5-0498-4e8b-bb10-8c4f37210706.png"
+    ]
   }
 ]
