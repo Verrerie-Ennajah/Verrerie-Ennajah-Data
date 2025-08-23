@@ -446,5 +446,40 @@
     "images": [
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/689fc8c8-0c2a-42c8-8902-415fecd06b4b.png"
     ]
+  },
+  {
+    "id": "c7b8014f-3bdc-43db-a266-8d1277d87c85",
+    "name": "Verre Personnalisé au Motif Raffiné",
+    "category": "Verre",
+    "youtubeLink": "",
+    "description": "✨ Un verre décoratif au motif raffiné, parfait pour sublimer vos portes, fenêtres ou cloisons.\nAlliant solidité et design unique, il apporte une touche moderne et élégante à votre intérieur.\n\n📦 Livraison garantie sous 10 jours maximum !",
+    "defaultDimensions": [
+      {
+        "x": 100,
+        "y": 100,
+        "z": 4,
+        "price": 299
+      },
+      {
+        "x": 100,
+        "y": 100,
+        "z": 6,
+        "price": 349
+      }
+    ],
+    "allowCustom": true,
+    "availableZ": [
+      {
+        "z": 4,
+        "price": 280
+      },
+      {
+        "z": 6,
+        "price": 330
+      }
+    ],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/d3754f77-3d92-401e-be86-67459ac7c951.png"
+    ]
   }
 ]
