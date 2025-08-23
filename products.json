@@ -213,29 +213,28 @@
         "x": 100,
         "y": 100,
         "z": 4,
-        "price": 330
+        "price": 299
       },
       {
         "x": 100,
         "y": 100,
         "z": 6,
-        "price": 350
+        "price": 349
       }
     ],
     "allowCustom": true,
     "availableZ": [
       {
         "z": 4,
-        "price": 273
+        "price": 280
       },
       {
         "z": 6,
-        "price": 318
+        "price": 330
       }
     ],
     "images": [
-      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/88cba878-5b0d-49a6-adcc-d17059884831.png",
-      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/902d6139-6666-4bc7-860a-762bbaa0fe58.png"
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/f0ef722c-1b20-4cf8-9a32-f6cd23452e8d.png"
     ]
   },
   {
@@ -249,13 +248,13 @@
         "x": 100,
         "y": 100,
         "z": 4,
-        "price": 230
+        "price": 229
       },
       {
         "x": 100,
         "y": 100,
         "z": 6,
-        "price": 250
+        "price": 249
       }
     ],
     "allowCustom": true,
@@ -284,13 +283,13 @@
         "x": 100,
         "y": 100,
         "z": 4,
-        "price": 230
+        "price": 229
       },
       {
         "x": 100,
         "y": 100,
         "z": 6,
-        "price": 250
+        "price": 249
       }
     ],
     "allowCustom": true,
@@ -319,13 +318,13 @@
         "x": 100,
         "y": 100,
         "z": 4,
-        "price": 230
+        "price": 229
       },
       {
         "x": 100,
         "y": 100,
         "z": 6,
-        "price": 250
+        "price": 249
       }
     ],
     "allowCustom": true,
@@ -354,24 +353,24 @@
         "x": 100,
         "y": 100,
         "z": 4,
-        "price": 300
+        "price": 299
       },
       {
         "x": 100,
         "y": 100,
         "z": 4,
-        "price": 350
+        "price": 349
       }
     ],
     "allowCustom": true,
     "availableZ": [
       {
         "z": 4,
-        "price": 281
+        "price": 280
       },
       {
         "z": 6,
-        "price": 331
+        "price": 330
       }
     ],
     "images": [
@@ -424,24 +423,24 @@
         "x": 100,
         "y": 100,
         "z": 4,
-        "price": 249
+        "price": 299
       },
       {
         "x": 100,
         "y": 100,
         "z": 6,
-        "price": 299
+        "price": 349
       }
     ],
     "allowCustom": true,
     "availableZ": [
       {
         "z": 4,
-        "price": 230
+        "price": 280
       },
       {
         "z": 6,
-        "price": 280
+        "price": 330
       }
     ],
     "images": [
