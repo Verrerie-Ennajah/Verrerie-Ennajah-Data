@@ -641,5 +641,25 @@
     "images": [
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/9d11d51a-90eb-4333-ae45-647696208043.png"
     ]
+  },
+  {
+    "id": "fa7994f4-1652-49b2-a2e1-522a89b2f568",
+    "name": "Support photo en bois avec double vitrage – Élégance et protection pour vos souvenirs",
+    "category": "Miroirs",
+    "youtubeLink": "",
+    "description": "\"Mettez vos souvenirs en valeur avec ce magnifique support photo en bois, équipé d’un double vitrage pour protéger vos images avec élégance. Conçu pour des photos de 21 × 29,5 cm, il s’adapte parfaitement à tous les intérieurs et ajoute une touche chaleureuse à votre décoration. Profitez d’une livraison rapide en 3 jours pour exposer vos photos préférées sans attendre !\"",
+    "defaultDimensions": [
+      {
+        "x": 21,
+        "y": 29.5,
+        "z": 6,
+        "price": 35
+      }
+    ],
+    "allowCustom": false,
+    "availableZ": [],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/6ce21196-c079-4ddb-9a0f-d44656b65ae7.png"
+    ]
   }
 ]
