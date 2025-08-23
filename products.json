@@ -586,5 +586,25 @@
     "images": [
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/b4a3148b-f839-4038-be15-bb2cf0859d60.png"
     ]
+  },
+  {
+    "id": "f8cefd39-e6e1-465a-ae78-28365010e613",
+    "name": "Style Moderne – Miroir Cadre Noir Fin",
+    "category": "Miroirs",
+    "youtubeLink": "",
+    "description": "✨ Apportez élégance et fonctionnalité à votre espace avec ce miroir au cadre noir fin de 3 cm.\nParfait pour les bureaux, salles d’essayage ou pièces modernes, il allie design minimaliste et praticité, tout en mettant en valeur votre intérieur.\n\n📦 Livraison rapide sous 10 jours maximum !",
+    "defaultDimensions": [
+      {
+        "x": 50,
+        "y": 120,
+        "z": 3,
+        "price": 135
+      }
+    ],
+    "allowCustom": false,
+    "availableZ": [],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/5647cb76-63e0-41e2-8a1f-d07b09879dcb.png"
+    ]
   }
 ]
