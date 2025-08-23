@@ -661,5 +661,25 @@
     "images": [
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/6ce21196-c079-4ddb-9a0f-d44656b65ae7.png"
     ]
+  },
+  {
+    "id": "1d2ced5a-40d4-40aa-b89f-4ad9fe8c83cc",
+    "name": "Petit miroir décoratif en forme originale avec support en bois",
+    "category": "Miroirs",
+    "youtubeLink": "",
+    "description": "Apportez une touche de charme à votre intérieur avec ce petit miroir au design original, accompagné d’un élégant support en bois. Parfait pour décorer votre bureau, coiffeuse ou espace personnel. Livraison rapide en seulement 3 jours !",
+    "defaultDimensions": [
+      {
+        "x": 15,
+        "y": 20,
+        "z": 3,
+        "price": 25
+      }
+    ],
+    "allowCustom": false,
+    "availableZ": [],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/9ed71818-f8ab-424c-b989-7d489d918a95.png"
+    ]
   }
 ]
