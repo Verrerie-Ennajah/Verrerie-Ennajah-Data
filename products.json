@@ -412,5 +412,40 @@
     "images": [
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/4105f6ff-7aec-400c-8d4b-9e3f1a89779a.png"
     ]
+  },
+  {
+    "id": "ff5d7ffc-65ae-4604-856a-b41d678b2089",
+    "name": "Verre Artistique avec Motif Unique",
+    "category": "Verre",
+    "youtubeLink": "",
+    "description": "🌟 Verre décoratif avec finition sablée / peau d’orange : élégance, intimité et luminosité en un seul produit. Idéal pour portes, fenêtres ou décoration intérieure. 🎨✨\n📦 Livraison garantie en 10 jours maximum 🚚💨",
+    "defaultDimensions": [
+      {
+        "x": 100,
+        "y": 100,
+        "z": 4,
+        "price": 249
+      },
+      {
+        "x": 100,
+        "y": 100,
+        "z": 6,
+        "price": 299
+      }
+    ],
+    "allowCustom": true,
+    "availableZ": [
+      {
+        "z": 4,
+        "price": 230
+      },
+      {
+        "z": 6,
+        "price": 280
+      }
+    ],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/689fc8c8-0c2a-42c8-8902-415fecd06b4b.png"
+    ]
   }
 ]
