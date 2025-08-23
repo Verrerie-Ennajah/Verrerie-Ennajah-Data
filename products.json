@@ -481,5 +481,40 @@
     "images": [
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/d3754f77-3d92-401e-be86-67459ac7c951.png"
     ]
+  },
+  {
+    "id": "3e6823da-c273-4cd7-80c2-72c01e2de3ad",
+    "name": "Traçage Noir – Design Moderne sur Verre",
+    "category": "Verre",
+    "youtubeLink": "",
+    "description": "✨ Un style moderne et raffiné grâce à son motif en traçage noir élégant.\nCe verre décoratif apporte une touche unique à vos portes, fenêtres ou cloisons, tout en restant sobre et chic. Idéal pour donner du caractère à vos espaces intérieurs.\n\n📦 Livraison rapide sous 10 jours maximum !",
+    "defaultDimensions": [
+      {
+        "x": 100,
+        "y": 100,
+        "z": 4,
+        "price": 229
+      },
+      {
+        "x": 100,
+        "y": 100,
+        "z": 6,
+        "price": 249
+      }
+    ],
+    "allowCustom": true,
+    "availableZ": [
+      {
+        "z": 4,
+        "price": 220
+      },
+      {
+        "z": 6,
+        "price": 230
+      }
+    ],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/8085e941-e1d8-4dea-80bc-3e0447ed1d4c.png"
+    ]
   }
 ]
