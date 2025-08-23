@@ -606,5 +606,40 @@
     "images": [
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/5647cb76-63e0-41e2-8a1f-d07b09879dcb.png"
     ]
+  },
+  {
+    "id": "c7d15535-48c6-41ce-98db-aaceb89a6d71",
+    "name": "Art Noir sur Verre : Motif Unique",
+    "category": "Verre",
+    "youtubeLink": "",
+    "description": "Sublimez votre intérieur avec ce verre au motif de tracés noirs élégants et modernes. Parfait pour offrir ou décorer votre maison avec style. 📦 Livraison rapide en 10 jours !",
+    "defaultDimensions": [
+      {
+        "x": 100,
+        "y": 100,
+        "z": 4,
+        "price": 229
+      },
+      {
+        "x": 100,
+        "y": 100,
+        "z": 6,
+        "price": 249
+      }
+    ],
+    "allowCustom": true,
+    "availableZ": [
+      {
+        "z": 4,
+        "price": 210
+      },
+      {
+        "z": 6,
+        "price": 230
+      }
+    ],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/9d11d51a-90eb-4333-ae45-647696208043.png"
+    ]
   }
 ]
