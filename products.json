@@ -191,7 +191,7 @@
       {
         "x": 42,
         "y": 59.4,
-        "price": 78
+        "price": 75
       }
     ],
     "allowCustom": false,
@@ -712,7 +712,7 @@
       {
         "x": 42,
         "y": 59.4,
-        "price": 78
+        "price": 75
       }
     ],
     "allowCustom": false,
@@ -747,7 +747,41 @@
     "allowCustom": false,
     "availableZ": [],
     "images": [
-      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/f69cd848-9ee6-4ae9-bf37-e64f7c3136ab.png"
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/90a4cbd6-d197-440d-96aa-c897136ae0f5.png"
+    ]
+  },
+  {
+    "id": "90c93140-d3c5-48bd-8d89-7f0c42552fae",
+    "name": "Cadre Photo Blanc Élégant",
+    "category": "Cadres",
+    "youtubeLink": "",
+    "description": "📝 Description :\n\n📸 Un cadre lumineux et raffiné pour vos plus belles photos !\nCadre photo blanc, largeur 1,5 cm, avec vitre de protection et support en contreplaqué solide. Sa finition épurée et moderne s’adapte à tous les styles de décoration et met en valeur vos souvenirs avec élégance.\n\n✨ Idéal pour vos photos, portraits ou certificats.\n🚚 Livraison en 3 jours max.",
+    "defaultDimensions": [
+      {
+        "x": 14.8,
+        "y": 21,
+        "price": 15
+      },
+      {
+        "x": 21,
+        "y": 29.5,
+        "price": 25
+      },
+      {
+        "x": 42,
+        "y": 29.7,
+        "price": 36
+      },
+      {
+        "x": 42,
+        "y": 59.4,
+        "price": 75
+      }
+    ],
+    "allowCustom": false,
+    "availableZ": [],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/390b10b5-3ae1-4290-a3c5-103eb854b161.png"
     ]
   }
 ]
