@@ -686,5 +686,39 @@
     "images": [
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/9ed71818-f8ab-424c-b989-7d489d918a95.png"
     ]
+  },
+  {
+    "id": "1d658676-184e-4874-bfbe-946856fb3977",
+    "name": "Cadre Doré Effet Moucheté – Chic et Moderne",
+    "category": "Cadres",
+    "youtubeLink": "",
+    "description": "📸 Sublimez vos souvenirs avec élégance !\nCadre photo doré moucheté, largeur 1,5 cm, avec vitre de protection et support en contreplaqué solide. Son design raffiné apporte une touche chic et moderne à votre décoration.\n\n✨ Idéal pour vos photos, portraits ou certificats.\n🚚 Livraison en 3 jours max.",
+    "defaultDimensions": [
+      {
+        "x": 14.8,
+        "y": 21,
+        "price": 15
+      },
+      {
+        "x": 21,
+        "y": 29.5,
+        "price": 25
+      },
+      {
+        "x": 42,
+        "y": 29.7,
+        "price": 36
+      },
+      {
+        "x": 42,
+        "y": 59.4,
+        "price": 78
+      }
+    ],
+    "allowCustom": false,
+    "availableZ": [],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/a4032378-0e8b-46b1-a2e5-f1a9773d752f.png"
+    ]
   }
 ]
