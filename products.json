@@ -783,5 +783,25 @@
     "images": [
       "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/390b10b5-3ae1-4290-a3c5-103eb854b161.png"
     ]
+  },
+  {
+    "id": "508ff505-ff4a-4955-8879-3f1c54fb8f09",
+    "name": "Support Photo en Bois Naturel",
+    "category": "Cadres",
+    "youtubeLink": "",
+    "description": "📝 Description :\n\n📸 Exposez vos souvenirs avec charme et authenticité !\nSupport photo en bois naturel, conçu pour mettre en valeur vos photos, cartes ou petites affiches. Sa finition sobre et moderne s’intègre parfaitement à tous les intérieurs, que ce soit pour un bureau, un salon ou une chambre.\n\n🌿 Matériau solide et durable\n📏 Format pratique pour photos et impressions\n🚚 Livraison rapide sous 3 jours max",
+    "defaultDimensions": [
+      {
+        "x": 23,
+        "y": 33,
+        "price": 42
+      }
+    ],
+    "allowCustom": false,
+    "availableZ": [],
+    "images": [
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/2a701566-9c68-4cc0-8744-c576a987bc0a.png",
+      "https://Verrerie-Ennajah.github.io/Verrerie-Ennajah-Data/images/60f76eb4-e619-4b8d-b937-3215ff876e02.png"
+    ]
   }
 ]
