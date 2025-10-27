@@ -1,5 +1,25 @@
 [
   {
+    "id": 2,
+    "name": "Miroir LED Tactile",
+    "category": "Miroirs",
+    "youtube": "",
+    "description": "<section class=\\\"product-description\\\" lang=\\\"fr\\\" style=\\\"font-size: 14px; line-height: 1.4; font-family: Arial, sans-serif;\\\">\\n  <h2 style=\\\"font-size: 16px; margin-bottom: 8px;\\\">💡 <strong>Miroir LED – Élégance & Confort Moderne</strong></h2>  <p>✨ <strong>Offrez à votre intérieur la touche lumineuse qu’il mérite</strong> !    Ce miroir LED au <strong>design raffiné</strong> transforme votre salle de bain ou votre espace déco en un lieu moderne et chaleureux.</p>  <p>💎 Grâce à son <strong>éclairage LED intégré</strong>, profitez d’une <strong>lumière douce et homogène</strong> idéale pour vos préparations quotidiennes.</p>  <p>🖐️ Son <strong>interrupteur tactile</strong> apporte un confort d’utilisation ultime : un simple effleurement et votre miroir s’illumine avec élégance.</p>  <h3 style=\\\"font-size: 15px; margin-top: 10px;\\\">🌟 <strong>Avantages clés</strong></h3>  <ul style=\\\"padding-left: 18px; margin-top: 5px;\\\">    <li>Design moderne et raffiné</li>    <li>Éclairage LED doux et homogène</li>    <li>Interrupteur tactile pratique</li>    <li>Parfait pour <strong>salle de bain</strong> ou <strong>espace déco</strong></li>  </ul>  <h3 style=\\\"font-size: 15px; margin-top: 10px;\\\">📦 <strong>Livraison rapide et fiable</strong></h3>  <p>🚚 Commandez dès aujourd’hui et recevez votre miroir chez vous en <strong>10 jours maximum</strong>.    📦 Nous veillons à un <strong>emballage soigné</strong> pour garantir que votre produit arrive en parfait état, prêt à embellir votre intérieur.</p></section>",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/13nx4zo2U5yp3DsIdzV0zUnK_Zx-qBd7o?authuser=1/view"
+      }
+    ],
+    "subcategory": "Miroirs décoratifs",
+    "dimensions": [
+      {
+        "x": 70,
+        "y": 90,
+        "price": 275
+      }
+    ]
+  },
+  {
     "id": 1,
     "name": "Miroir avec cadre noir",
     "category": "Miroirs",
