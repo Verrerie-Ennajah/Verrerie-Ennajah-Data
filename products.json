@@ -1,5 +1,38 @@
 [
   {
+    "id": 3,
+    "name": "Miroir en Bois Raffiné et Simple",
+    "category": "Miroirs",
+    "youtube": "",
+    "description": "<section class=\\\"product-description\\\" lang=\\\"fr\\\" style=\\\"font-size: 14px; line-height: 1.4; font-family: Arial, sans-serif;\\\">  <h2 style=\\\"font-size: 16px; margin-bottom: 8px;\\\">🪞 <strong>Miroir avec Cadre en Bois – Charme Naturel & Intemporel</strong></h2>  <p>✨ <strong>Offrez à votre séjour un charme naturel et intemporel</strong> avec ce miroir au     <strong>cadre en bois finement travaillé</strong>.      Ses <strong>motifs délicats</strong>, à la fois jolis et simples, apportent une touche d’authenticité qui se marie à tous les styles de décoration.</p>  <p>💡 Plus qu’un simple objet, c’est une <strong>pièce maîtresse</strong> qui     <strong>agrandit l’espace</strong>, <strong>illumine la pièce</strong> et raconte une histoire de raffinement.      Un choix idéal pour ceux qui aiment allier <strong>élégance</strong> et <strong>simplicité</strong>.</p>  <h3 style=\\\"font-size: 15px; margin-top: 10px;\\\">🎨 <strong>Couleurs disponibles</strong></h3>  <ul style=\\\"padding-left: 18px; margin-top: 5px;\\\">    <li><strong>Doré</strong></li>    <li><strong>Noir</strong></li>  </ul>  <h3 style=\\\"font-size: 15px; margin-top: 10px;\\\">📦 <strong>Livraison rapide & sécurisée</strong></h3>  <p>🚚 Votre miroir sera <strong>soigneusement préparé</strong> et expédié avec le plus grand soin.      ⏱️ <strong>Livraison garantie sous 7 jours maximum</strong>, directement à votre adresse.      📦 Emballage sécurisé pour assurer qu’il arrive <strong>en parfait état</strong>.</p></section>",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/18fV63h5hm6xeJj9J4lUlMKIyoWxOo6m7?authuser=1/view"
+      }
+    ],
+    "subcategory": "Miroirs décoratifs",
+    "dimensions": [
+      {
+        "x": 90,
+        "y": 180,
+        "z": 4,
+        "price": 595
+      },
+      {
+        "x": 105,
+        "y": 190,
+        "z": 4,
+        "price": 695
+      },
+      {
+        "x": 210,
+        "y": 115,
+        "z": 4,
+        "price": 745
+      }
+    ]
+  },
+  {
     "id": 2,
     "name": "Miroir LED Tactile",
     "category": "Miroirs",
