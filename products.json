@@ -1,5 +1,32 @@
 [
   {
+    "id": 8,
+    "name": "Style Moderne – Miroir Cadre Noir Fin",
+    "category": "Miroirs",
+    "youtube": "",
+    "description": "<section class=\\\"product-description\\\" lang=\\\"fr\\\" style=\\\"font-size:14px; line-height:1.4; font-family:Arial, sans-serif;\\\">  <h2 style=\\\"font-size:16px; margin-bottom:8px;\\\">🖤 <strong>Miroir – Cadre Noir Fin 1.5cm</strong> ✨</h2>  <p>✨ <strong>Apportez élégance et fonctionnalité</strong> à votre espace avec ce <strong>miroir au cadre noir fin de 3 cm</strong>.      Parfait pour <strong>bureaux, salles d’essayage</strong> ou <strong>pièces modernes</strong>, il allie <strong>design minimaliste</strong> et <strong>praticité</strong>, tout en mettant en valeur votre intérieur.</p>  <h3 style=\\\"font-size:15px; margin-top:10px;\\\">🎯 <strong>Ses atouts</strong></h3>  <ul style=\\\"padding-left:18px; margin-top:5px;\\\">    <li>Cadre noir fin de <strong>3 cm</strong></li>    <li>Design <strong>minimaliste</strong> et élégant</li>    <li>Parfait pour <strong>bureaux, salles d’essayage</strong> ou espaces modernes</li>  </ul>  <h3 style=\\\"font-size:15px; margin-top:10px;\\\">📦 <strong>Livraison rapide & sécurisée</strong></h3>  <p>🚚 <strong>Livraison rapide</strong> sous <strong>3 jours maximum</strong>, avec emballage soigné pour garantir une arrivée en parfait état 🏡.</p></section>",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1S5vKxlY_I13aJi4KKsj7S5K2pijj1ULm?authuser=1/view"
+      }
+    ],
+    "subcategory": "Miroirs décoratifs",
+    "dimensions": [
+      {
+        "x": 35,
+        "y": 110,
+        "z": 3,
+        "price": 109
+      },
+      {
+        "x": 50,
+        "y": 120,
+        "z": 3,
+        "price": 135
+      }
+    ]
+  },
+  {
     "id": 7,
     "name": "Miroir Africa",
     "category": "Miroirs",
