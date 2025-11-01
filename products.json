@@ -1,5 +1,46 @@
 [
   {
+    "id": 11,
+    "name": "Vitrail Art Déco Harmonie Couleurs",
+    "category": "Verre",
+    "youtube": "",
+    "description": "<section class=\\\"product-description\\\" lang=\\\"fr\\\" style=\\\"font-size:14px; line-height:1.4; font-family:Arial, sans-serif;\\\">  <h2 style=\\\"font-size:16px; margin-bottom:8px;\\\">🎨 <strong>Verre en Peinture Numérique – Couleurs & Modernité</strong> 🖼️✨</h2>  <p>✨ <strong>Offrez à vos murs une touche moderne et unique</strong> avec notre     <strong>verre en peinture numérique</strong>.      💡 Des <strong>couleurs éclatantes</strong>, des <strong>détails précis</strong> et un <strong>rendu brillant</strong> qui sublime votre espace 🌟.</p>  <h3 style=\\\"font-size:15px; margin-top:10px;\\\">🎯 <strong>Pourquoi choisir ce produit ?</strong></h3>  <ul style=\\\"padding-left:18px; margin-top:5px;\\\">    <li>Design <strong>unique et moderne</strong></li>    <li><strong>Couleurs éclatantes</strong> et durables</li>    <li><strong>Rendu brillant</strong> qui illumine vos murs</li>  </ul>  <h3 style=\\\"font-size:15px; margin-top:10px;\\\">📦 <strong>Livraison rapide & sécurisée</strong></h3>  <p>🚚 <strong>Recevez votre commande</strong> en <strong>10 jours maximum</strong>, avec une <strong>qualité garantie</strong> et un emballage soigné 🏡.</p></section>",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/11QQR05Joh9MXdQhr6JJTDbRoi8xymB-Q?authuser=1/view"
+      }
+    ],
+    "subcategory": "Peinture sur verre",
+    "availableTypes": [
+      {
+        "id": "1",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 275
+          },
+          {
+            "z": 6,
+            "price": 290
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 275
+          },
+          {
+            "z": 6,
+            "price": 290
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 10,
     "name": "Peinture Noire Simplicité Raffinement",
     "category": "Verre",
