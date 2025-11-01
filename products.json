@@ -1,5 +1,46 @@
 [
   {
+    "id": 13,
+    "name": "Art Noir Verre Finesse et Modernité",
+    "category": "Verre",
+    "youtube": "",
+    "description": "<section class=\\\"product-description\\\" lang=\\\"fr\\\" style=\\\"font-size:14px; line-height:1.4; font-family:Arial, sans-serif;\\\">  <h2 style=\\\"font-size:16px; margin-bottom:8px;\\\">🖤 <strong>Traçage Noir Fin sur Verre – Caractère & Originalité</strong> ✨</h2>  <p>✨ <strong>Un tracé noir fin et élégant sur verre</strong>, qui apporte <strong>caractère</strong> et <strong>originalité</strong> à votre décoration.      Parfait pour sublimer vos murs, cadres ou espaces décoratifs avec une touche moderne et sophistiquée 🎨.</p>  <h3 style=\\\"font-size:15px; margin-top:10px;\\\">🎯 <strong>Ses atouts</strong></h3>  <ul style=\\\"padding-left:18px; margin-top:5px;\\\">    <li>Tracé <strong>fin</strong> et raffiné</li>    <li>Apporte <strong>caractère</strong> et originalité</li>    <li>Idéal pour <strong>murs, cadres</strong> et espaces décoratifs</li>  </ul>  <h3 style=\\\"font-size:15px; margin-top:10px;\\\">📦 <strong>Livraison rapide & sécurisée</strong></h3>  <p>🚚 <strong>Recevez-le chez vous</strong> en <strong>10 jours maximum</strong>, avec un emballage soigné pour garantir une arrivée en parfait état 🏡.</p></section>",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1pXv0YmIMWOjd5t5Kzn3zecNfVGARfzvd?authuser=1/view"
+      }
+    ],
+    "subcategory": "Peinture sur verre",
+    "availableTypes": [
+      {
+        "id": "1",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 210
+          },
+          {
+            "z": 6,
+            "price": 230
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 210
+          },
+          {
+            "z": 6,
+            "price": 230
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 12,
     "name": "Motif Classique Intemporel",
     "category": "Verre",
