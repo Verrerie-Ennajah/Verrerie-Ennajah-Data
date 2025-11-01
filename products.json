@@ -1,5 +1,39 @@
 [
   {
+    "id": 9,
+    "name": "Valorisez vos photos et attestations",
+    "category": "Cadres",
+    "youtube": "",
+    "description": "<section class=\\\"product-description\\\" lang=\\\"fr\\\" style=\\\"font-size:14px; line-height:1.4; font-family:Arial, sans-serif;\\\">  <h2 style=\\\"font-size:16px; margin-bottom:8px;\\\">🖤 <strong>Cadre sobre & élégant – Simplicité & Chic</strong> ✨</h2>  <p>📜 <strong>Mettez en valeur vos attestations, diplômes ou photos</strong> grâce à ce cadre raffiné.      Avec son <strong>design fin de 1.5 cm</strong>, il apporte une touche <strong>moderne</strong> et <strong>professionnelle</strong> à vos murs.</p>  <p>🏡 Parfait pour <strong>la maison</strong>, <strong>le bureau</strong> ou encore comme <strong>cadeau</strong> 🎁.      👉 Un choix <strong>simple, chic et intemporel</strong> pour sublimer vos précieux souvenirs 💎.</p>  <h3 style=\\\"font-size:15px; margin-top:10px;\\\">✨ <strong>Avantages</strong></h3>  <ul style=\\\"padding-left:18px; margin-top:5px;\\\">    <li>Cadre <strong>sobre et élégant</strong></li>    <li>Profil fin de <strong>1.5 cm</strong></li>    <li>Style <strong>moderne</strong> et <strong>professionnel</strong></li>  </ul>  <h3 style=\\\"font-size:15px; margin-top:10px;\\\">📦 <strong>Possibilité de vente en gros</strong></h3>  <p>✔️ <strong>Achetez plus, payez moins</strong> !       🤝 Idéal pour <strong>commerçants</strong>, <strong>décorateurs</strong> et <strong>projets spéciaux</strong>.       🚚 Livraison rapide & fiable, avec des <strong>prix avantageux</strong> à ne pas rater 💡.</p></section>",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1l8DJBsyZFW-R-IUkryVbLXOl1Tu6NXBm?authuser=1/view"
+      }
+    ],
+    "subcategory": "",
+    "allowCustom": false,
+    "dimensions": [
+      {
+        "x": 14.8,
+        "y": 21,
+        "priceVerre": 15,
+        "priceNoVerre": 13
+      },
+      {
+        "x": 21,
+        "y": 29.5,
+        "priceVerre": 25,
+        "priceNoVerre": 22
+      },
+      {
+        "x": 42,
+        "y": 59.4,
+        "priceVerre": 75,
+        "priceNoVerre": 69
+      }
+    ]
+  },
+  {
     "id": 8,
     "name": "Miroir Cadre Noir Fin Style Moderne",
     "category": "Miroirs",
