@@ -1,5 +1,46 @@
 [
   {
+    "id": 10,
+    "name": "Peinture Noire Simplicité Raffinement",
+    "category": "Verre",
+    "youtube": "",
+    "description": "<section class=\\\"product-description\\\" lang=\\\"fr\\\" style=\\\"font-size:14px; line-height:1.4; font-family:Arial, sans-serif;\\\">  <h2 style=\\\"font-size:16px; margin-bottom:8px;\\\">🖤 <strong>Traçage Noir Raffiné sur Verre – Raffinement & Modernité</strong> 🎨✨</h2>  <p>✨ <strong>Un traçage noir raffiné sur verre</strong>, au design <strong>moderne</strong> et <strong>élégant</strong>.      Parfait pour apporter une <strong>touche unique</strong> à votre décoration et sublimer vos murs ou vos espaces décoratifs.</p>  <h3 style=\\\"font-size:15px; margin-top:10px;\\\">🎯 <strong>Pourquoi vous allez l’adorer</strong></h3>  <ul style=\\\"padding-left:18px; margin-top:5px;\\\">    <li>Design <strong>raffiné</strong> et contemporain</li>    <li>Trace noire qui apporte <strong>caractère</strong> et profondeur</li>    <li>Idéal pour <strong>salon</strong>, <strong>entrée</strong> ou <strong>espace décoratif</strong></li>  </ul>  <h3 style=\\\"font-size:15px; margin-top:10px;\\\">📦 <strong>Livraison rapide & sécurisée</strong></h3>  <p>🚚 <strong>Recevez votre commande</strong> en <strong>10 jours maximum</strong>, avec emballage soigné et qualité garantie 🏡.</p></section>",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1AgNxnmedGXo-cCrGT6xtOnDeho0ht7gh?authuser=1/view"
+      }
+    ],
+    "subcategory": "Peinture sur verre",
+    "availableTypes": [
+      {
+        "id": "1",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 200
+          },
+          {
+            "z": 6,
+            "price": 230
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 200
+          },
+          {
+            "z": 6,
+            "price": 230
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 9,
     "name": "Valorisez vos photos et attestations",
     "category": "Cadres",
