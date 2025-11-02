@@ -1,5 +1,28 @@
 [
   {
+    "id": 14,
+    "name": "Verre Peau d’Orange Normal",
+    "category": "Verre",
+    "youtube": "",
+    "description": "✨ Verre Peau d’Orange – Lumière, élégance et intimité\nLe verre Peau d’Orange allie esthétisme et fonctionnalité. Sa surface délicatement texturée diffuse la lumière naturelle avec douceur, créant une atmosphère lumineuse et chaleureuse, tout en préservant l’intimité des espaces. Idéal pour les portes, cloisons, parois de douche ou meubles, ce verre apporte une touche raffinée et contemporaine à tous vos projets. Sa texture unique offre un jeu de lumière subtil et élégant, transformant chaque pièce en un espace à la fois moderne et accueillant.",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1vAry9KRHV8dr7IN84SVmf8O0Ed9ZHZ-T?authuser=1/view"
+      }
+    ],
+    "subcategory": "Simple vitrage",
+    "thicknesses": [
+      {
+        "z": 4,
+        "price": 50
+      },
+      {
+        "z": 6,
+        "price": 55
+      }
+    ]
+  },
+  {
     "id": 13,
     "name": "Art Noir Verre Finesse et Modernité",
     "category": "Verre",
