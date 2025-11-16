@@ -1,5 +1,26 @@
 [
   {
+    "id": 17,
+    "name": "Miroir Décoratif avec Support Bois",
+    "category": "Miroirs",
+    "youtube": "",
+    "description": "<section class=\\\"product-description\\\" lang=\\\"fr\\\" style=\\\"font-size:14px; line-height:1.4; font-family:Arial, sans-serif;\\\">  <h2 style=\\\"font-size:16px; margin-bottom:8px;\\\">🪞 <strong>Petit Miroir – Design Original & Support en Bois</strong> ✨</h2>  <p>✨ <strong>Apportez une touche de charme</strong> à votre intérieur avec ce <strong>petit miroir au design original</strong>, accompagné d’un <strong>élégant support en bois</strong>.      Parfait pour <strong>décorer votre bureau, coiffeuse</strong> ou espace personnel, il allie style et praticité.</p>  <h3 style=\\\"font-size:15px; margin-top:10px;\\\">🎯 <strong>Ses atouts</strong></h3>  <ul style=\\\"padding-left:18px; margin-top:5px;\\\">    <li>Design original et charmant</li>    <li>Support en <strong>bois élégant</strong></li>    <li>Idéal pour <strong>bureau, coiffeuse</strong> ou espace personnel</li>  </ul>  <h3 style=\\\"font-size:15px; margin-top:10px;\\\">📦 <strong>Livraison rapide & sécurisée</strong></h3>  <p>🚚 <strong>Livraison rapide</strong> en <strong>3 jours maximum</strong>, pour profiter de votre miroir sans attendre 🏡.</p></section>",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1qW7FnTBbfn2H0s6lA8jtRsiLZIp6XAVg?authuser=1/view"
+      }
+    ],
+    "subcategory": "Miroirs décoratifs",
+    "dimensions": [
+      {
+        "x": 15,
+        "y": 20,
+        "z": 3,
+        "price": 25
+      }
+    ]
+  },
+  {
     "id": 16,
     "name": "Verre Artistique Sablé Moderne",
     "category": "Verre",
