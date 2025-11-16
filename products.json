@@ -1,5 +1,46 @@
 [
   {
+    "id": 16,
+    "name": "Verre Artistique Sablé Moderne",
+    "category": "Verre",
+    "youtube": "",
+    "description": "<section class=\\\"product-description\\\" lang=\\\"fr\\\" style=\\\"font-size:14px; line-height:1.4; font-family:Arial, sans-serif;\\\">  <h2 style=\\\"font-size:16px; margin-bottom:8px;\\\">🌟 <strong>Verre Décoratif – Finition Sablée / Peau d’Orange</strong> 🎨✨</h2>  <p>✨ <strong>Élégance, intimité et luminosité</strong> réunies dans ce <strong>verre décoratif à finition sablée (peau d’orange)</strong>.      Sa surface subtilement texturée diffuse la lumière tout en préservant l’intimité, offrant un rendu à la fois doux et raffiné pour votre intérieur.</p>  <h3 style=\\\"font-size:15px; margin-top:10px;\\\">🎯 <strong>Pourquoi l’adopter</strong></h3>  <ul style=\\\"padding-left:18px; margin-top:5px;\\\">    <li>Finition <strong>sablée / peau d’orange</strong> pour un effet diffuseur de lumière</li>    <li>Allie <strong>esthétique</strong> et <strong>intimité</strong></li>    <li>Idéal pour <strong>portes</strong>, <strong>fenêtres</strong> ou <strong>décoration intérieure</strong></li>  </ul>  <h3 style=\\\"font-size:15px; margin-top:10px;\\\">📦 <strong>Livraison rapide & sécurisée</strong></h3>  <p>🚚💨 <strong>Livraison garantie</strong> en <strong>10 jours maximum</strong>, avec un emballage soigné pour une arrivée en parfait état 🏡.</p></section>",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1a_q6VN-uL1UZ0uCiJT60P9G1qyPztHa6?authuser=1/view"
+      }
+    ],
+    "subcategory": "Peinture sur verre",
+    "availableTypes": [
+      {
+        "id": "1",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 250
+          },
+          {
+            "z": 6,
+            "price": 280
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 250
+          },
+          {
+            "z": 6,
+            "price": 280
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 15,
     "name": "Fleur d’Art sur Verre Déco Unique",
     "category": "Verre",
