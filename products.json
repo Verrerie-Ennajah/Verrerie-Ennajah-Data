@@ -1,5 +1,46 @@
 [
   {
+    "id": 15,
+    "name": "Fleur d’Art sur Verre Déco Unique",
+    "category": "Verre",
+    "youtube": "",
+    "description": "<section class=\\\"product-description\\\" lang=\\\"fr\\\" style=\\\"font-size:14px; line-height:1.4; font-family:Arial, sans-serif;\\\">  <h2 style=\\\"font-size:16px; margin-bottom:8px;\\\">🌸 <strong>Verre Floral Peint à la Main – Raffinement & Élégance Naturelle</strong> 🎨✨</h2>  <p>✨ <strong>Offrez à votre intérieur une touche de raffinement</strong> avec ce verre décoré de <strong>magnifiques fleurs peintes à la main</strong>.      Un <strong>design unique</strong> qui marie <strong>transparence</strong> et <strong>élégance naturelle</strong>, parfait pour illuminer et sublimer votre espace.</p>  <h3 style=\\\"font-size:15px; margin-top:10px;\\\">🎯 <strong>Pourquoi vous allez l’adorer</strong></h3>  <ul style=\\\"padding-left:18px; margin-top:5px;\\\">    <li>Finition <strong>peinte à la main</strong> pour un rendu unique</li>    <li>Design floral qui apporte <strong>chaleur</strong> et douceur</li>    <li>Idéal pour <strong>salon</strong>, <strong>chambre</strong> ou <strong>entrée</strong></li>  </ul>  <h3 style=\\\"font-size:15px; margin-top:10px;\\\">📦 <strong>Livraison rapide & sécurisée</strong></h3>  <p>🚚💨 <strong>Recevez votre verre</strong> en <strong>10 jours maximum</strong>, avec un emballage soigné pour garantir une arrivée en parfait état 🏡.</p></section>",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1UoJV27FEj9qprNesAZYBZcr1HTktmPjS?authuser=1/view"
+      }
+    ],
+    "subcategory": "Peinture sur verre",
+    "availableTypes": [
+      {
+        "id": "1",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 250
+          },
+          {
+            "z": 6,
+            "price": 280
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 250
+          },
+          {
+            "z": 6,
+            "price": 280
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 14,
     "name": "Verre Peau d’Orange Normal",
     "category": "Verre",
