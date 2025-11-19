@@ -306,22 +306,20 @@
       {
         "x": 14.8,
         "y": 21,
-        "priceVerre": 15,
-        "priceNoVerre": 13
+        "priceVerre": 15
       },
       {
         "x": 21,
         "y": 29.5,
-        "priceVerre": 25,
-        "priceNoVerre": 22
+        "priceVerre": 25
       },
       {
         "x": 42,
         "y": 59.4,
-        "priceVerre": 75,
-        "priceNoVerre": 69
+        "priceVerre": 75
       }
-    ]
+    ],
+    "withGlass": "avecVerre"
   },
   {
     "id": 8,
