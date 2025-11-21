@@ -1,5 +1,37 @@
 [
   {
+    "id": 18,
+    "name": "Cadre Photo Marron Élégant",
+    "category": "Cadres",
+    "youtube": "",
+    "description": "📸 Un cadre élégant et chaleureux !Cadre photo marron, largeur 3 cm, équipé d’une vitre de protection et d’un contreplaqué robuste. Son style classique et naturel met parfaitement en valeur vos photos, portraits ou documents.✨ Une touche sobre et raffinée pour votre décoration.🚚 Livraison en 3 jours max.",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1zc0eOKwpcx70FUkWx2UEnBXipZGMrEbZ?authuser=1/view"
+      }
+    ],
+    "subcategory": "",
+    "allowCustom": false,
+    "dimensions": [
+      {
+        "x": 21,
+        "y": 29.5,
+        "priceVerre": 25
+      },
+      {
+        "x": 42,
+        "y": 29.7,
+        "priceVerre": 45
+      },
+      {
+        "x": 42,
+        "y": 59.4,
+        "priceVerre": 75
+      }
+    ],
+    "withGlass": "avecVerre"
+  },
+  {
     "id": 17,
     "name": "Miroir Décoratif avec Support Bois",
     "category": "Miroirs",
