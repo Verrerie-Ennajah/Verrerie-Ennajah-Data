@@ -51,6 +51,11 @@
     "allowCustom": false,
     "dimensions": [
       {
+        "x": 14.8,
+        "y": 21,
+        "priceVerre": 15
+      },
+      {
         "x": 21,
         "y": 29.5,
         "priceVerre": 25
