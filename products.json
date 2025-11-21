@@ -1,5 +1,42 @@
 [
   {
+    "id": 19,
+    "name": "Cadre Photo Blanc Élégant",
+    "category": "Cadres",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1Sriv2ZHo4uXtRvMZfYlkilNC0nBvrLkk?authuser=1/view"
+      }
+    ],
+    "subcategory": "",
+    "allowCustom": false,
+    "dimensions": [
+      {
+        "x": 14.8,
+        "y": 21,
+        "priceVerre": 15
+      },
+      {
+        "x": 21,
+        "y": 29.5,
+        "priceVerre": 25
+      },
+      {
+        "x": 42,
+        "y": 29.7,
+        "priceVerre": 45
+      },
+      {
+        "x": 42,
+        "y": 59.4,
+        "priceVerre": 69
+      }
+    ],
+    "withGlass": "avecVerre"
+  },
+  {
     "id": 18,
     "name": "Cadre Photo Marron Élégant",
     "category": "Cadres",
