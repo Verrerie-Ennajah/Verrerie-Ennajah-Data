@@ -1,5 +1,30 @@
 [
   {
+    "id": 21,
+    "name": "Support Photo en Bois Naturel",
+    "category": "Cadres",
+    "youtube": "",
+    "description": "📸 Exposez vos souvenirs avec charme et authenticité !Support photo en bois naturel, conçu pour mettre en valeur vos photos, cartes ou petites affiches. Sa finition sobre et moderne s’intègre parfaitement à tous les intérieurs, que ce soit pour un bureau, un salon ou une chambre.🌿 Matériau solide et durable📏 Format pratique pour photos et impressions🚚 Livraison rapide sous 3 jours max.",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1cCNOq21LY-CwWO09h2x_aJlZUOA3v6le?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1L4uvMk-nabuV-P5--bJvoLEAyNqMssM0?authuser=1/view"
+      }
+    ],
+    "subcategory": "",
+    "allowCustom": false,
+    "dimensions": [
+      {
+        "x": 33,
+        "y": 23,
+        "priceVerre": 42
+      }
+    ],
+    "withGlass": "avecVerre"
+  },
+  {
     "id": 20,
     "name": "Support Photo en Bois Naturel Marron",
     "category": "Cadres",
