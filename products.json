@@ -1,5 +1,42 @@
 [
   {
+    "id": 22,
+    "name": "Cadre Photo Doré Élégant",
+    "category": "Cadres",
+    "youtube": "",
+    "description": "📸 Sublimez vos souvenirs avec élégance !Cadre photo doré moucheté, largeur 1,5 cm, avec vitre de protection et support en contreplaqué solide. Son design raffiné apporte une touche chic et moderne à votre décoration.✨ Idéal pour vos photos, portraits ou certificats.🚚 Livraison en 3 jours max.",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1Zk5Chz51oVpHua0iMV39dvott2_nmkOr?authuser=1/view"
+      }
+    ],
+    "subcategory": "",
+    "allowCustom": false,
+    "dimensions": [
+      {
+        "x": 14.8,
+        "y": 21,
+        "priceVerre": 15
+      },
+      {
+        "x": 21,
+        "y": 29.5,
+        "priceVerre": 25
+      },
+      {
+        "x": 42,
+        "y": 29.7,
+        "priceVerre": 45
+      },
+      {
+        "x": 42,
+        "y": 59.4,
+        "priceVerre": 75
+      }
+    ],
+    "withGlass": "avecVerre"
+  },
+  {
     "id": 21,
     "name": "Support Photo en Bois Naturel",
     "category": "Cadres",
