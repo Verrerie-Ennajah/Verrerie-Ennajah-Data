@@ -1,5 +1,46 @@
 [
   {
+    "id": 24,
+    "name": "Art Noir sur Verre",
+    "category": "Verre",
+    "youtube": "",
+    "description": "<section class=\\\"product-description\\\" lang=\\\"fr\\\" style=\\\"font-size:14px; line-height:1.4; font-family:Arial, sans-serif;\\\">  <h2 style=\\\"font-size:16px; margin-bottom:8px;\\\">🖤 <strong>Verre Décoratif – Tracés Noirs Élégants & Modernes</strong> ✨</h2>  <p>✨ <strong>Sublimez votre intérieur</strong> avec ce <strong>verre au motif de tracés noirs élégants et modernes</strong>.      Parfait pour <strong>offrir</strong> ou <strong>décorer votre maison</strong> avec style et raffinement 🎨.</p>  <h3 style=\\\"font-size:15px; margin-top:10px;\\\">🎯 <strong>Ses atouts</strong></h3>  <ul style=\\\"padding-left:18px; margin-top:5px;\\\">    <li>Motif <strong>tracés noirs</strong> élégant et contemporain</li>    <li>Apporte <strong>style</strong> et <strong>raffinement</strong> à vos espaces</li>    <li>Idéal pour <strong>offrir</strong> ou <strong>décorer votre maison</strong></li>  </ul>  <h3 style=\\\"font-size:15px; margin-top:10px;\\\">📦 <strong>Livraison rapide & sécurisée</strong></h3>  <p>🚚 <strong>Livraison rapide</strong> en <strong>10 jours maximum</strong>, avec un emballage soigné pour garantir une réception en parfait état 🏡.</p></section>",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1JiBQmu52WQri_s234GxqvhZqh_1EHC2G?authuser=1/view"
+      }
+    ],
+    "subcategory": "Peinture sur verre",
+    "availableTypes": [
+      {
+        "id": "1",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 200
+          },
+          {
+            "z": 6,
+            "price": 220
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "thicknesses": [
+          {
+            "z": 4,
+            "price": 200
+          },
+          {
+            "z": 6,
+            "price": 218
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 23,
     "name": "Support Photo Bois Double Vitrage",
     "category": "Cadres",
