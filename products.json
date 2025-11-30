@@ -1,5 +1,29 @@
 [
   {
+    "id": 33,
+    "name": "Crochet de Fixation pour Miroir",
+    "category": "Miroirs",
+    "youtube": "",
+    "description": "Crochet de Fixation pour Miroir\n\nCe crochet de fixation permet d’installer un miroir solidement et de façon presque invisible.\nIl crée un écartement de 0,5 mm entre le miroir et le mur pour assurer une bonne aération et éviter l’humidité.\n\nUne toute petite partie en inox (environ 0,5 mm) reste visible sur le côté, ce qui ne gêne pas l’esthétique et reste très discret.\n\nCaractéristiques :\n\nSupport en inox et métal haute résistance\n\n0,5 mm d’espace derrière le miroir pour ventiler\n\n0,5 mm d’inox visible, très discret\n\nInstallation simple, stable et durable\n\nConvient aux miroirs fins ou moyens\n\nAvantages :\n\nRéduit la condensation derrière le miroir\n\nAméliore la longévité du miroir\n\nFixation propre, minimaliste et sécurisée",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1U5vpOONBUcOe2UDVfKZ3_q-GAvrUnOK7?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1EUD12OFYNZj2wZW0Ldfh_xh-erzPFc_S?authuser=1/view"
+      }
+    ],
+    "subcategory": "Miroirs décoratifs",
+    "dimensions": [
+      {
+        "x": 32,
+        "y": 28,
+        "z": 5,
+        "price": 9.5
+      }
+    ]
+  },
+  {
     "id": 32,
     "name": "Verre Stopsol Bleu Normale",
     "category": "Verre",
