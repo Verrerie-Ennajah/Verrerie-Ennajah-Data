@@ -1,5 +1,36 @@
 [
   {
+    "id": 30,
+    "name": "Verre clair Normale",
+    "category": "Verre",
+    "youtube": "",
+    "description": "Verre clair – Définition\n\nLe verre clair est le verre standard et le plus utilisé.\nIl est transparent, laisse entrer beaucoup de lumière, et n’a pas de couleur \n\nCaractéristiques :\n\nTrès bonne transparence\n\nAspect neutre et naturel\n\nDisponible en plusieurs épaisseurs : 3 mm, 4 mm, 6 mm, 8 mm .",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1mdRMztR_KKIzceaa4EZ4IC_LS5v0ileB?authuser=1/view"
+      }
+    ],
+    "subcategory": "Simple vitrage",
+    "thicknesses": [
+      {
+        "z": 3,
+        "price": 35
+      },
+      {
+        "z": 4,
+        "price": 45
+      },
+      {
+        "z": 6,
+        "price": 55
+      },
+      {
+        "z": 8,
+        "price": 75
+      }
+    ]
+  },
+  {
     "id": 29,
     "name": "Stopsol Asli Normale",
     "category": "Verre",
