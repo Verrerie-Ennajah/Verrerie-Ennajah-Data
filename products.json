@@ -1,5 +1,31 @@
 [
   {
+    "id": 34,
+    "name": "Verre Clair Teinté Bronze",
+    "category": "Verre",
+    "youtube": "",
+    "description": "Un verre teinté dans la masse pour votre plus grand bonheur !\nDécoupe de verre clair teinté bronze sur-mesure\nLes points forts :\n\nUn contrôle solaire optimal pour bénéficier d’un intérieur au frais toute l’année\nUne teinte qui participe et vient souligner les éléments de décoration déjà présents dans votre habitation\nUn coloris bronze qui apporte convivialité à votre espace intérieur. Idéal pour une pièce où l’on reçoit des amis ou de la famille\n\n",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1dGcQXjrKA52yDfSteQhxFqsxP7aOY_gU?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/18AVmBVl2PvjtJVq6PwuoVryNjZNqbOjU?authuser=1/view"
+      }
+    ],
+    "subcategory": "Simple vitrage",
+    "thicknesses": [
+      {
+        "z": 4,
+        "price": 45
+      },
+      {
+        "z": 6,
+        "price": 75
+      }
+    ]
+  },
+  {
     "id": 33,
     "name": "Crochet de Fixation pour Miroir",
     "category": "Miroirs",
