@@ -1,5 +1,35 @@
 [
   {
+    "id": 38,
+    "name": "Verre Miroir Clair",
+    "category": "Verre",
+    "youtube": "",
+    "description": "Verre Miroir – Luminosité, Profondeur et Élégance\n\nLe verre miroir est un verre clair sur lequel on applique une fine couche métallique hautement réfléchissante, généralement de l’argent ou de l’aluminium. Ce traitement transforme la surface en un miroir parfait, capable de renvoyer fidèlement l’image et de multiplier la lumière dans n’importe quel espace.\n\nIl est très utilisé en décoration, en architecture intérieure, dans les meubles et dans les projets d’aménagement qui recherchent un effet de profondeur et de modernité.\n\nCaractéristiques principales :\n\nSurface hautement réfléchissante qui renvoie l’image avec précision.\n\nAméliore la luminosité et donne une impression de volume dans les pièces.",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1ly-ZEmLQQKMS1jJQDJIvCO71s7SWqRL9?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1X_thgz6lkzPgeDYVFNQpck6HV4fzFyIq?authuser=1/view"
+      }
+    ],
+    "subcategory": "Simple vitrage",
+    "thicknesses": [
+      {
+        "z": 3,
+        "price": 45
+      },
+      {
+        "z": 4,
+        "price": 65
+      },
+      {
+        "z": 5,
+        "price": 75
+      }
+    ]
+  },
+  {
     "id": 37,
     "name": "Verre Mouresque (3mm)",
     "category": "Verre",
