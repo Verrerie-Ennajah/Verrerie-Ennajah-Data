@@ -1,5 +1,24 @@
 [
   {
+    "id": 39,
+    "name": "Verre Miroir Gris",
+    "category": "Verre",
+    "youtube": "",
+    "description": "Un miroir aussi pratique qu'esthétique\nVous êtes à la recherche d'un miroir pour votre intérieur qui réponde à la fois à un besoin décoratif, mais aussi à un besoin de confort visuel ? Le verre miroir teinté gris est une excellente solution. Sa couleur grise intense, participe à votre décoration et vient sublimer simplement votre intérieur. Le gris est une couleur neutre par excellence, qui met en valeur les autres couleurs de votre habitation.\n\nLe miroir a un côté à la fois  pratique et esthétique et c'est tout cela qui fait son charme ! Placée dans votre salon, couloir ou hall d'entrée, le gris vient rendre la pièce intérieure plus apaisante et plus calme. Le verre miroir gris 6 mm peut être complètement personnalisé en fonction de votre projet. Grande taille, forme abstraite, épaisseur fine ou encore coin coupé, tout est réalisable, il suffit de nous demander !\n\nLe miroir est aussi un élément indispensable à intégrer dans les petits espaces. Fin et discret, il agrandit l'espace visuellement et vient souligner tous les éléments de votre mobilier présents dans votre maison. Il convient aussi pour des espaces plus grands, mais n'a pas les mêmes intérêts. Ici, le verre miroir est utilisé pour attirer un maximum de lumière naturelle à l'intérieur. Vous seriez étonné de voir la différence, elle est flagrante !\n\nTeinté, le verre miroir gris est très foncé, il répond à un besoin décoratif avant tout, il n’est notamment pas possible de se regarder à l’intérieur. Enfin, la teinte ne gêne pas la réflexion du vitrage. Autant d'atouts qui sont susceptibles de vous faire craquer ! Pensez au verre miroir gris pour votre futur projet décoratif !",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1BYgAfMyUOSgsvUPTkPyImHW1lEN2KxcX?authuser=1/view"
+      }
+    ],
+    "subcategory": "Simple vitrage",
+    "thicknesses": [
+      {
+        "z": 4,
+        "price": 85
+      }
+    ]
+  },
+  {
     "id": 38,
     "name": "Verre Miroir Clair",
     "category": "Verre",
