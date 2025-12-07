@@ -1,5 +1,33 @@
 [
   {
+    "id": 37,
+    "name": "Verre Mouresque (3mm)",
+    "category": "Verre",
+    "youtube": "",
+    "description": "Verre Mouresque – Charme Oriental et Lumière Sculptée\n\nLe verre mouresque est un verre décoratif embossé, connu pour ses motifs géométriques d’inspiration arabe et andalouse. Son dessin fin et répétitif crée un jeu de lumière artistique qui donne aux espaces une ambiance raffinée, chaleureuse et authentique.\n\nCe type de verre est très apprécié dans les décorations traditionnelles et modernes, car il combine intimité, esthétique et passage naturel de la lumière.\n\nCaractéristiques principales :\n\nMotifs géométriques inspirés de l’architecture arabo-andalouse.\n\nExcellent pour préserver la confidentialité tout en laissant passer une lumière douce et diffuse.\n\nSurface texturée qui donne un effet décoratif unique.\n\nIdéal pour portes, fenêtres, cloisons, meubles, décorations murales",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1BfNxOMTisacTURXnPoOdPX_8nS2RFw-I?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1VjtPDc19jSUV-K4Waiwm_cyW3fnqNCwl?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1QY9qU8LJDezopPxVSuzr3lzBVnhongQF?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1yDRgh1UZVDZoz_x4h1hlW5ASGrLVgLsh?authuser=1/view"
+      }
+    ],
+    "subcategory": "Simple vitrage",
+    "thicknesses": [
+      {
+        "z": 3,
+        "price": 45
+      }
+    ]
+  },
+  {
     "id": 36,
     "name": "Verre Delta (3mm)",
     "category": "Verre",
