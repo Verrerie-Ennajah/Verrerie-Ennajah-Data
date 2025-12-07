@@ -69,29 +69,6 @@
     ]
   },
   {
-    "id": 31,
-    "name": "Verre Bronze Normale",
-    "category": "Verre",
-    "youtube": "",
-    "description": "Verre bronze – Définition\n\nLe verre bronze est un verre teinté dans la masse avec une couleur brun-doré.\nLa teinte est intégrée lors de la fabrication, ce qui lui donne un aspect chaleureux, élégant et légèrement sombre.\n\nCaractéristiques :\n\nRéduit la lumière et l’éblouissement\n\nDonne une ambiance chaleureuse et premium\n\nTrès beau pour la décoration intérieure\n\nDisponible en 4 mm, 6 mm .",
-    "images": [
-      {
-        "imageUrl": "https://lh3.googleusercontent.com/d/13qoV9km75GDiT1nqE65prPBoX3HHJHsp?authuser=1/view"
-      }
-    ],
-    "subcategory": "Simple vitrage",
-    "thicknesses": [
-      {
-        "z": 4,
-        "price": 50
-      },
-      {
-        "z": 6,
-        "price": 70
-      }
-    ]
-  },
-  {
     "id": 30,
     "name": "Verre clair Normale",
     "category": "Verre",
