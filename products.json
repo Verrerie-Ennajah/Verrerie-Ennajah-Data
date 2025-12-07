@@ -1,5 +1,24 @@
 [
   {
+    "id": 40,
+    "name": "Verre Miroir Bronze",
+    "category": "Verre",
+    "youtube": "",
+    "description": "Une décoration tendance et élégante :\nLe verre miroir bronze est une solution idéale pour les personnes qui souhaitent ajouter une touche de décoration et de couleur à leur habitation. De couleur bronze, le verre miroir apporte chaleur et convivialité dans votre intérieur. Il convient parfaitement dans une habitation ancienne au style vintage et est un excellent moyen de mettre en avant des éléments de votre mobilier ancien.\n\nImaginer la décoration manquante pour votre habitation, nous la créons spécialement pour vous de manière entièrement unique. Entièrement personnalisable, vous pouvez concevoir votre miroir en fonction de votre besoin et votre envie.\n\nLe miroir teinté est un excellent choix si vous possédez une pièce intérieure petite, sombre ou encore peu décoré. En effet, il reflète la lumière naturelle extérieure dans votre intérieur et vient agrandir l'espace visuellement. De plus, sa couleur bronze participe activement à votre décoration intérieure.\n\nIl est notamment utilisé pour sublimer des pièces à vivre telles qu'un salon, une salle à manger, un couloir ou encore un hall d'entrée. On peut aussi le retrouver dans des espaces plus grands. Le verre miroir bronze à la particularité d'être teinté, ce qui est un atout considérable pour sublimer votre intérieur simplement.",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1230aIjjY5d5SHrxLfllftRZ_CS23Jqum?authuser=1/view"
+      }
+    ],
+    "subcategory": "Simple vitrage",
+    "thicknesses": [
+      {
+        "z": 4,
+        "price": 85
+      }
+    ]
+  },
+  {
     "id": 39,
     "name": "Verre Miroir Gris",
     "category": "Verre",
