@@ -1,5 +1,27 @@
 [
   {
+    "id": 36,
+    "name": "Verre Delta (3mm)",
+    "category": "Verre",
+    "youtube": "",
+    "description": "Verre Delta – Un Relief Lumineux et Élégant\n\nLe verre Delta est un verre décoratif embossé, reconnaissable par son motif en relief qui crée un jeu de lumière doux et chaleureux. Sa texture unique diffuse la lumière tout en préservant l’intimité, ce qui en fait un choix très apprécié pour les portes intérieures, les fenêtres, les cabines de douche et les meubles décoratifs.\n\nCaractéristiques principales :\n\nMotif décoratif en vague / en feuille, typique du verre Delta.\n\nTransmission de lumière élevée tout en masquant la vision directe.\n\nEffet texturé qui ajoute du charme et du caractère aux espaces.\n\nDisponible en plusieurs teintes selon les fabricants (clair, bronze, fumé).\n\nPourquoi le choisir ?\nParce qu’il combine esthétique et intimité, et apporte une touche classique mais toujours moderne aux portes, vitrines, cuisines, dressings et cloisons en verre. Son relief crée une ambiance lumineuse chaleureuse, idéale pour les intérieurs élégants.",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1GV4-C0-ZOy8WNds37FG2Aa39tH9Oyh2D?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1rqGaL9FF_oF8wHLzRa3xcnVZspGzNY-I?authuser=1/view"
+      }
+    ],
+    "subcategory": "Simple vitrage",
+    "thicknesses": [
+      {
+        "z": 3,
+        "price": 45
+      }
+    ]
+  },
+  {
     "id": 35,
     "name": "Verre Mat Acide Normale",
     "category": "Verre",
