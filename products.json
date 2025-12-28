@@ -1,5 +1,28 @@
 [
   {
+    "id": 44,
+    "name": "Verre Sablé Normal",
+    "category": "Verre",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/19HMxzmQz-qu9fML2KF4HT-fix316JrNr?authuser=1/view"
+      }
+    ],
+    "subcategory": "Verre trempé",
+    "thicknesses": [
+      {
+        "z": 4,
+        "price": 50
+      },
+      {
+        "z": 6,
+        "price": 70
+      }
+    ]
+  },
+  {
     "id": 43,
     "name": "Verre Clair Teinté Bronze Trempé",
     "category": "Verre",
