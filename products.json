@@ -1,5 +1,31 @@
 [
   {
+    "id": 53,
+    "name": "Cadre Blans Mouchté",
+    "category": "Cadres",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1HT0ArONCL4tjFElyDNVG1-fgdAXA5NqO?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1jTw9_5OCz1Yj-FvyDjWQNa8D5p8z9suD?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1qQQ6QLEMcn8JZHqSC8QpzMualWoRnFr_?authuser=1/view"
+      }
+    ],
+    "subcategory": "",
+    "allowCustom": true,
+    "dimensions": [],
+    "glassPricePerM2": 35,
+    "baguetteWidth": 5,
+    "baguetteLinearPrice": 35,
+    "plywoodPricePerM2": 35,
+    "withGlass": "avecEtSans"
+  },
+  {
     "id": 52,
     "name": "Cadre Noir - Chic et Moderne",
     "category": "Cadres",
