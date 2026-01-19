@@ -25,7 +25,7 @@
     "glassPricePerM2": 35,
     "baguetteWidth": 2.5,
     "baguetteLinearPrice": 41,
-    "plywoodPricePerM2": 35,
+    "plywoodPricePerM2": 10,
     "withGlass": "avecEtSans"
   },
   {
