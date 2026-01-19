@@ -1,5 +1,25 @@
 [
   {
+    "id": 57,
+    "name": "Cadre Doré",
+    "category": "Cadres",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1stOF8_28qX_f1vF-vUlzHgVmNLBAk8Gm?authuser=1/view"
+      }
+    ],
+    "subcategory": "",
+    "allowCustom": true,
+    "dimensions": [],
+    "glassPricePerM2": 35,
+    "baguetteWidth": 5,
+    "baguetteLinearPrice": 30,
+    "plywoodPricePerM2": 35,
+    "withGlass": "avecEtSans"
+  },
+  {
     "id": 56,
     "name": "Cadre Doré -  Moderne",
     "category": "Cadres",
