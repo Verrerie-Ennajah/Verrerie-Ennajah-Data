@@ -1,5 +1,34 @@
 [
   {
+    "id": 54,
+    "name": "Cadre Américaine",
+    "category": "Cadres",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1VWIEpO8zWuHn6DzoD-Es-Q_IUj-Yh6uB?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1kRbNnzObXHHp6V_gpDkSVaKC6E1ElG_B?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1K93lnWR1_2Ews5r1DNOdtyg3irn7x2qV?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1tj0MMdVv9zW8nBFFQlHsgbw97JWfLub0?authuser=1/view"
+      }
+    ],
+    "subcategory": "",
+    "allowCustom": true,
+    "dimensions": [],
+    "glassPricePerM2": 35,
+    "baguetteWidth": 2.5,
+    "baguetteLinearPrice": 41,
+    "plywoodPricePerM2": 35,
+    "withGlass": "avecEtSans"
+  },
+  {
     "id": 53,
     "name": "Cadre Blans Mouchté",
     "category": "Cadres",
