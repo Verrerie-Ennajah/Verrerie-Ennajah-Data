@@ -1,5 +1,34 @@
 [
   {
+    "id": 52,
+    "name": "Cadre Noir - Chic et Moderne",
+    "category": "Cadres",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1pVFBSQs8Skn3NG4H7LwYau2Pw5E2Wzo3?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1UpBtQqaVcKPQloCYF3HPS9RaMV0GWVMe?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1oWuFw93s3Ptu9K0eXSUHroNXt-b9nqbd?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1ob2v0a9_JA6Fdx3sy_K_76V2TYZqBg4p?authuser=1/view"
+      }
+    ],
+    "subcategory": "",
+    "allowCustom": true,
+    "dimensions": [],
+    "glassPricePerM2": 35,
+    "baguetteWidth": 290,
+    "baguetteLinearPrice": 28,
+    "plywoodPricePerM2": 35,
+    "withGlass": "avecEtSans"
+  },
+  {
     "id": 51,
     "name": "Cadre Doré - Chic",
     "category": "Cadres",
