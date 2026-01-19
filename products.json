@@ -1,5 +1,31 @@
 [
   {
+    "id": 51,
+    "name": "Cadre Doré - Chic",
+    "category": "Cadres",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1JO0WhBb5MxMDmGLT-XzjCJBVWv-ZS03K?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1vsV0WMvqF5JtDwxfcosp8AEzgDuUv7Zd?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1f0bJHFa3c48kpQqy4XuIYk2bdDcFVcHm?authuser=1/view"
+      }
+    ],
+    "subcategory": "",
+    "allowCustom": true,
+    "dimensions": [],
+    "glassPricePerM2": 35,
+    "baguetteWidth": 290,
+    "baguetteLinearPrice": 38,
+    "plywoodPricePerM2": 35,
+    "withGlass": "avecEtSans"
+  },
+  {
     "id": 50,
     "name": "Cadre Doré - Chic et Moderne",
     "category": "Cadres",
