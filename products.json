@@ -1,5 +1,24 @@
 [
   {
+    "id": 55,
+    "name": "Cadre Américaine Blanc",
+    "category": "Cadres",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1BxQrYSPX1dNZdoqsrhigQzf-q_TigRbS?authuser=1/view"
+      }
+    ],
+    "subcategory": "",
+    "allowCustom": true,
+    "dimensions": [],
+    "baguetteWidth": 2.5,
+    "baguetteLinearPrice": 38,
+    "plywoodPricePerM2": 10,
+    "withGlass": "sansVerre"
+  },
+  {
     "id": 54,
     "name": "Cadre Américaine",
     "category": "Cadres",
