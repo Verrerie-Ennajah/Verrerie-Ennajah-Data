@@ -1,5 +1,25 @@
 [
   {
+    "id": 58,
+    "name": "Cadre Noir - Chic",
+    "category": "Cadres",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1fJSx-hSPEk-Y6OiKVTWB9deU3Tg5zGzr?authuser=1/view"
+      }
+    ],
+    "subcategory": "",
+    "allowCustom": true,
+    "dimensions": [],
+    "glassPricePerM2": 35,
+    "baguetteWidth": 2,
+    "baguetteLinearPrice": 30,
+    "plywoodPricePerM2": 35,
+    "withGlass": "avecEtSans"
+  },
+  {
     "id": 57,
     "name": "Cadre Doré",
     "category": "Cadres",
