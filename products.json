@@ -1,5 +1,37 @@
 [
   {
+    "id": 50,
+    "name": "Cadre Doré - Chic et Moderne",
+    "category": "Cadres",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1DwlVYlj2ozo8WyMbgr7iJMW5vZ0JnWTL?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1Ww1D69fXhLCeHC1Mh3aeWeeJD0IYkgKC?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1Z3101t4jCT8U48KckTdMppwxdlKN1FOX?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1TbhgSex8-ot3seGldfYclRjGOqPzEtWe?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1eUGFaekBXXnek_JAyn0ziUloxfT9B_6W?authuser=1/view"
+      }
+    ],
+    "subcategory": "",
+    "allowCustom": true,
+    "dimensions": [],
+    "glassPricePerM2": 35,
+    "baguetteWidth": 290,
+    "baguetteLinearPrice": 38.5,
+    "plywoodPricePerM2": 35,
+    "withGlass": "avecEtSans"
+  },
+  {
     "id": 49,
     "name": "Verre Stopsol Bleu Trempé",
     "category": "Verre",
