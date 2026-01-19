@@ -141,7 +141,7 @@
   },
   {
     "id": 52,
-    "name": "Cadre Noir - Chic et Moderne (2cm)",
+    "name": "Cadre Noir - Chic et Moderne (1.5cm)",
     "category": "Cadres",
     "youtube": "",
     "description": "",
@@ -163,7 +163,7 @@
     "allowCustom": true,
     "dimensions": [],
     "glassPricePerM2": 35,
-    "baguetteWidth": 2,
+    "baguetteWidth": 1.5,
     "baguetteLinearPrice": 28,
     "plywoodPricePerM2": 35,
     "withGlass": "avecEtSans"
