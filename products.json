@@ -49,7 +49,7 @@
     "allowCustom": true,
     "dimensions": [],
     "glassPricePerM2": 35,
-    "baguetteWidth": 290,
+    "baguetteWidth": 2,
     "baguetteLinearPrice": 28,
     "plywoodPricePerM2": 35,
     "withGlass": "avecEtSans"
