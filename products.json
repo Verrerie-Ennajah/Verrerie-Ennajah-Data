@@ -1,5 +1,28 @@
 [
   {
+    "id": 59,
+    "name": "Miroir De Rétrouviseur",
+    "category": "Miroirs",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1NiTU44CSMNR3eYsvkmMIUXqx-9T9YLKf?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1n-YemhIyswn2tMCQhvbDjGOnhaBenAwP?authuser=1/view"
+      }
+    ],
+    "subcategory": "Miroirs rétroviseurs",
+    "allowCustom": true,
+    "dimensions": [],
+    "customPrices": {
+      "moto": 5,
+      "voiture": 8,
+      "camion": 15
+    }
+  },
+  {
     "id": 58,
     "name": "Cadre Noir - Chic (2cm)",
     "category": "Cadres",
