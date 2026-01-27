@@ -1,5 +1,28 @@
 [
   {
+    "id": 60,
+    "name": "Verre Sablé Normal",
+    "category": "Verre",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1WNaaiJFnTWzovRLkByO2V13devWrhOSY?authuser=1/view"
+      }
+    ],
+    "subcategory": "Simple vitrage",
+    "thicknesses": [
+      {
+        "z": 4,
+        "price": 55
+      },
+      {
+        "z": 6,
+        "price": 65
+      }
+    ]
+  },
+  {
     "id": 59,
     "name": "Miroir De Rétrouviseur",
     "category": "Miroirs",
