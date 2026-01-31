@@ -1,5 +1,26 @@
 [
   {
+    "id": 61,
+    "name": "Miroir Décoratif",
+    "category": "Miroirs",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1cefrpCyC_Q8s_JWKRIU4gseG_FGwoL2I?authuser=1/view"
+      }
+    ],
+    "subcategory": "Miroirs décoratifs",
+    "dimensions": [
+      {
+        "x": 80,
+        "y": 60,
+        "z": 4,
+        "price": 180
+      }
+    ]
+  },
+  {
     "id": 60,
     "name": "Verre Sablé Normal",
     "category": "Verre",
