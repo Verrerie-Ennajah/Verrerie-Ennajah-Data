@@ -1,5 +1,32 @@
 [
   {
+    "id": 62,
+    "name": "miroir decoratif",
+    "category": "Miroirs",
+    "youtube": "",
+    "description": "✨ Miroir décoratif femme – l’alliance parfaite entre art et qualité premium.\n\n💎 Verre haute clarté | Finition luxueuse | Design unique et élégant.\n\nTransformez votre espace avec une pièce qui attire tous les regards. 🤍",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1TL4B_DIT7ZBS1p0BFUK4QxC2SNjHtdWd?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1X65IJMpDQ7fPR4URKt6U-WP-gyThX0xa?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/169DDTXUcNZOK1cs52o_qOxZb5n_WgYXW?authuser=1/view"
+      }
+    ],
+    "subcategory": "Miroirs décoratifs",
+    "dimensions": [
+      {
+        "x": 75,
+        "y": 150,
+        "z": 13,
+        "price": 270
+      }
+    ]
+  },
+  {
     "id": 61,
     "name": "Miroir Décoratif",
     "category": "Miroirs",
