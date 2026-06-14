@@ -1,5 +1,26 @@
 [
   {
+    "id": 70,
+    "name": "Miroir moderne",
+    "category": "Miroirs",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1xgX5UWUWBryqwC4B6NUrZzI31kGq0d1o?authuser=1/view"
+      }
+    ],
+    "subcategory": "Miroirs décoratifs",
+    "dimensions": [
+      {
+        "x": 170,
+        "y": 70,
+        "z": 4,
+        "price": 240
+      }
+    ]
+  },
+  {
     "id": 69,
     "name": "Miroir dentiste",
     "category": "Miroirs",
