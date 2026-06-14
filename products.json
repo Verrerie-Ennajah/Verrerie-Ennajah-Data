@@ -1,5 +1,26 @@
 [
   {
+    "id": 64,
+    "name": "Miroir Silhouette Élégance",
+    "category": "Miroirs",
+    "youtube": "",
+    "description": "Une œuvre décorative contemporaine qui allie esthétique et fonctionnalité. Sa forme fluide et distinctive transforme chaque mur en un véritable élément de design, idéal pour les salons, chambres et halls d’entrée modernes.",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1thCHOmFAYss5xtJB7VZeG0eIRZxUJjfu?authuser=1/view"
+      }
+    ],
+    "subcategory": "Miroirs décoratifs",
+    "dimensions": [
+      {
+        "x": 70,
+        "y": 170,
+        "z": 4,
+        "price": 250
+      }
+    ]
+  },
+  {
     "id": 63,
     "name": "Miroir Aura Organique",
     "category": "Miroirs",
