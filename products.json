@@ -1,5 +1,29 @@
 [
   {
+    "id": 69,
+    "name": "Miroir dentiste",
+    "category": "Miroirs",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1YJPOfUHA-Uqu7RrLTKOpodlNrfzv4Jw_?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1Vw66wDXWzjveDrY4tDW2Pprit8-fYcWJ?authuser=1/view"
+      }
+    ],
+    "subcategory": "Miroirs décoratifs",
+    "dimensions": [
+      {
+        "x": 110,
+        "y": 85,
+        "z": 4,
+        "price": 295
+      }
+    ]
+  },
+  {
     "id": 68,
     "name": "Miroir Mural Organique",
     "category": "Miroirs",
