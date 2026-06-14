@@ -1,5 +1,32 @@
 [
   {
+    "id": 71,
+    "name": "Miroir Oasis Brut",
+    "category": "Miroirs",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1FhKD9mpf-NVH8PIVQcZz2Q6jlb-mfnZM?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1OcfQBBy1GCIHdovU50PPxs3nmJXtO1a6?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1ZDbTMcpRgBJNZVKzIIKjUlDIIGP1BJw3?authuser=1/view"
+      }
+    ],
+    "subcategory": "Miroirs décoratifs",
+    "dimensions": [
+      {
+        "x": 180,
+        "y": 70,
+        "z": 4,
+        "price": 280
+      }
+    ]
+  },
+  {
     "id": 70,
     "name": "Miroir moderne",
     "category": "Miroirs",
