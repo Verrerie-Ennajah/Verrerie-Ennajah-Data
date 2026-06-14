@@ -1,5 +1,26 @@
 [
   {
+    "id": 67,
+    "name": "Miroir chic",
+    "category": "Miroirs",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1kqO7YudPGCiUzH8iYpX7fwNLg-Fn71-0?authuser=1/view"
+      }
+    ],
+    "subcategory": "Miroirs décoratifs",
+    "dimensions": [
+      {
+        "x": 70,
+        "y": 100,
+        "z": 4,
+        "price": 175
+      }
+    ]
+  },
+  {
     "id": 66,
     "name": "Miroir instagrame",
     "category": "Miroirs",
