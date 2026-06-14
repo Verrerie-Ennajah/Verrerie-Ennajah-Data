@@ -1,5 +1,26 @@
 [
   {
+    "id": 65,
+    "name": "Miroir Robe",
+    "category": "Miroirs",
+    "youtube": "",
+    "description": "Miroir décoratif LED en forme de silhouette féminine, fabriqué avec un verre de haute qualité offrant un reflet net et lumineux. Son éclairage intégré met en valeur les contours du miroir et crée un effet visuel spectaculaire. Idéal pour les chambres, dressings, salons, boutiques de mode et espaces Instagramables.",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1v_JfaMCAjIE9YwBUPNyp_EbXzLk8m7Vg?authuser=1/view"
+      }
+    ],
+    "subcategory": "Miroirs décoratifs",
+    "dimensions": [
+      {
+        "x": 180,
+        "y": 75,
+        "z": 4,
+        "price": 295
+      }
+    ]
+  },
+  {
     "id": 64,
     "name": "Miroir Silhouette Élégance",
     "category": "Miroirs",
