@@ -1,5 +1,26 @@
 [
   {
+    "id": 66,
+    "name": "Miroir instagrame",
+    "category": "Miroirs",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1tHv0v84bDo8iNWSf_lQf0gphG0hAIAi8?authuser=1/view"
+      }
+    ],
+    "subcategory": "Miroirs décoratifs",
+    "dimensions": [
+      {
+        "x": 55,
+        "y": 120,
+        "z": 4,
+        "price": 195
+      }
+    ]
+  },
+  {
     "id": 65,
     "name": "Miroir Robe",
     "category": "Miroirs",
