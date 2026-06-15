@@ -1,5 +1,26 @@
 [
   {
+    "id": 72,
+    "name": "Miroir Mural",
+    "category": "Miroirs",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1tdQlmAPnwOvYj1h93m9C4tSHE5NS7KSv?authuser=1/view"
+      }
+    ],
+    "subcategory": "Miroirs décoratifs",
+    "dimensions": [
+      {
+        "x": 110,
+        "y": 80,
+        "z": 4,
+        "price": 185
+      }
+    ]
+  },
+  {
     "id": 71,
     "name": "Miroir Oasis Brut",
     "category": "Miroirs",
