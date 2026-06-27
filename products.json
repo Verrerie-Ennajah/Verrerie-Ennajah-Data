@@ -1,5 +1,26 @@
 [
   {
+    "id": 73,
+    "name": "Miroir Mural",
+    "category": "Miroirs",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1_wwP3b7eARo9cBc3YwKrd_qKBpMC90c2?authuser=1/view"
+      }
+    ],
+    "subcategory": "Miroirs décoratifs",
+    "dimensions": [
+      {
+        "x": 170,
+        "y": 70,
+        "z": 4,
+        "price": 320
+      }
+    ]
+  },
+  {
     "id": 72,
     "name": "Miroir Mural",
     "category": "Miroirs",
