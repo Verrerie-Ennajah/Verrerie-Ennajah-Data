@@ -1,5 +1,32 @@
 [
   {
+    "id": 74,
+    "name": "Miroir Mural",
+    "category": "Miroirs",
+    "youtube": "",
+    "description": "✨ Illuminez votre intérieur avec l'élégance du haut de gamme ✨\n\nInspiré des plus grands designs contemporains, ce revêtement mural en miroir importé de 4 mm insuffle instantanément du volume, de la profondeur et une luminosité inégalée à votre pièce. Son motif en losanges structuré apporte une touche de sophistication géométrique qui ne laisse personne indifférent.\n\nIdéal pour sublimer un salon, habiller une salle à manger ou agrandir un hall d'entrée.\n\n📐 Épaisseur : 4 mm (Qualité supérieure importée, reflet parfait sans distorsion)\n\n💎 Finition : Découpe et assemblage précis en losanges\n\n🛠️ Installation : Sur-mesure pour s'adapter parfaitement à vos dimensions.\n\n👉 Donnez à votre espace le prestige qu'il mérite. Contactez-nous en DM pour un devis personnalisé !",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/15RAGPsAJZj0nucdQNb2jTZFNFbWHqOf5?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1QIR7hchrjX5GdqKpNrE9nODAvFH03Atp?authuser=1/view"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1grqjDxcHtVVZVuZ5mge5EQ6H3AXqoSQN?authuser=1/view"
+      }
+    ],
+    "subcategory": "Miroirs décoratifs",
+    "dimensions": [
+      {
+        "x": 100,
+        "y": 100,
+        "z": 4,
+        "price": 350
+      }
+    ]
+  },
+  {
     "id": 73,
     "name": "Miroir Mural",
     "category": "Miroirs",
