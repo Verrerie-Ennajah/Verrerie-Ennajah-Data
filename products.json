@@ -1,5 +1,26 @@
 [
   {
+    "id": 75,
+    "name": "Miroir Mural Magnifique",
+    "category": "Miroirs",
+    "youtube": "",
+    "description": "",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1QSoAN7nmm77Z3CWTs5CdmmD30eJN1XIA?authuser=1/view"
+      }
+    ],
+    "subcategory": "Miroirs décoratifs",
+    "dimensions": [
+      {
+        "x": 100,
+        "y": 100,
+        "z": 4,
+        "price": 450
+      }
+    ]
+  },
+  {
     "id": 74,
     "name": "Miroir Mural",
     "category": "Miroirs",
