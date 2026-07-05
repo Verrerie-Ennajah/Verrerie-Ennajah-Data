@@ -1,5 +1,27 @@
 [
   {
+    "id": 83,
+    "name": "Le Cadre \"Excellence\" – Édition Bac",
+    "category": "Cadres",
+    "youtube": "",
+    "description": "✨ Les points forts de ce modèle :\nEffet Galerie d'Art : Intègre un magnifique fond en Marie-Louise (passe-partout) de 5 cm qui crée une profondeur unique et isole élégamment le diplôme.\n\nGrand Format Impressionnant : Des dimensions généreuses de 30 × 40 cm pour habiller vos murs avec prestige.\n\nFinition Soignée : Une bordure noire texturée de 1.5 cm de largeur, alliant sobriété et modernité.\n\nUn Souvenir Impérissable : Conçu avec des matériaux de haute qualité pour protéger votre succès toute votre vie.\n\n🎁 Offre Exclusive :\nBénéficiez d'un cadre élégant + un cadeau symbolique à forte valeur émotionnelle inclus dans votre commande !\n\n💰 Prix spécial : 45 DT\n\n📦 Prêt à l'exposition : Conçu pour être suspendu directement dès réception (جاهزة للتعليق مباشرة).\n\nأطلب الكادر متاعك توا وخلي نجاحك يضوي بيتك! 🎓🖼️",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1peOeSkMeavV896G8kN41tqs_YxuKTMnR?authuser=1/view"
+      }
+    ],
+    "subcategory": "",
+    "allowCustom": false,
+    "dimensions": [
+      {
+        "x": 30,
+        "y": 40,
+        "priceVerre": 45
+      }
+    ],
+    "withGlass": "avecVerre"
+  },
+  {
     "id": 82,
     "name": "Le Cadre \"Fierté du Bac\"",
     "category": "Cadres",
