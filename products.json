@@ -1,5 +1,27 @@
 [
   {
+    "id": 82,
+    "name": "Le Cadre \"Fierté du Bac\"",
+    "category": "Cadres",
+    "youtube": "",
+    "description": "✨ Pourquoi choisir ce cadre ?Design Élégant & Moderne : Un cadre noir épuré avec une bordure de 1.5 cm qui met parfaitement en valeur le document officiel sans l'étouffer.Dimensions Sur-Mesure : Conçu exactement aux dimensions idéales ($21 \\times 29.5\\text{ cm}$) pour accueillir votre attestation de réussite.Haute Qualité & Durabilité : Un souvenir fait pour durer toute une vie, prêt à être suspendu fièrement dans votre chambre ou votre salon.Le Cadeau Idéal : Parfait à offrir à vos proches ou à vos enfants pour célébrer le fruit de leurs efforts.🎁 Offre Spéciale :Pour tout achat, profitez d'un cadre élégant + un cadeau symbolique de grande valeur inclus !💰 Prix exceptionnel : Seulement 25 DT📦 Prêt à l'emploi : Livré prêt à être suspendu directement.Ne laissez pas votre réussite prendre la poussière, offrez-lui l'écrin qu'elle mérite ! 🎓🌟",
+    "images": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/d/1qt0Mab9E2SWsvhHclRloKWkr3ouv1sy8?authuser=1/view"
+      }
+    ],
+    "subcategory": "",
+    "allowCustom": false,
+    "dimensions": [
+      {
+        "x": 21,
+        "y": 29.5,
+        "priceVerre": 25
+      }
+    ],
+    "withGlass": "avecVerre"
+  },
+  {
     "id": 81,
     "name": "Miroir Mural",
     "category": "Miroirs",
