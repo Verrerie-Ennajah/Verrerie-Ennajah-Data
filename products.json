@@ -823,11 +823,11 @@
         "thicknesses": [
           {
             "z": 4,
-            "price": 45
+            "price": 55
           },
           {
             "z": 6,
-            "price": 50
+            "price": 65
           }
         ]
       },
@@ -882,11 +882,11 @@
         "thicknesses": [
           {
             "z": 4,
-            "price": 45
+            "price": 55
           },
           {
             "z": 6,
-            "price": 50
+            "price": 65
           }
         ]
       },
@@ -966,7 +966,7 @@
         ]
       }
     ],
-    "filmPrice": 23
+    "filmPrice": 50
   },
   {
     "id": 47,
