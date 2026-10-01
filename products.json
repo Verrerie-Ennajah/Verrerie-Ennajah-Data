@@ -1044,11 +1044,11 @@
     "thicknesses": [
       {
         "z": 4,
-        "price": 85
+        "price": 90
       },
       {
         "z": 6,
-        "price": 90
+        "price": 95
       }
     ]
   },
