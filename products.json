@@ -1120,19 +1120,19 @@
     "thicknesses": [
       {
         "z": 4,
-        "price": 70
+        "price": 90
       },
       {
         "z": 6,
-        "price": 75
+        "price": 95
       },
       {
         "z": 8,
-        "price": 110
+        "price": 150
       },
       {
         "z": 10,
-        "price": 125
+        "price": 180
       }
     ]
   },
